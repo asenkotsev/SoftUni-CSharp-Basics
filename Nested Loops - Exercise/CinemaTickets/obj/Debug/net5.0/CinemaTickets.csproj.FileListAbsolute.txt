@@ -1,0 +1,15 @@
+/Users/asenkocev/Desktop/SoftUni C#/Basics/Nested Loops - Exercise/CinemaTickets/bin/Debug/net5.0/CinemaTickets.deps.json
+/Users/asenkocev/Desktop/SoftUni C#/Basics/Nested Loops - Exercise/CinemaTickets/bin/Debug/net5.0/CinemaTickets.runtimeconfig.json
+/Users/asenkocev/Desktop/SoftUni C#/Basics/Nested Loops - Exercise/CinemaTickets/bin/Debug/net5.0/CinemaTickets.runtimeconfig.dev.json
+/Users/asenkocev/Desktop/SoftUni C#/Basics/Nested Loops - Exercise/CinemaTickets/bin/Debug/net5.0/CinemaTickets.dll
+/Users/asenkocev/Desktop/SoftUni C#/Basics/Nested Loops - Exercise/CinemaTickets/bin/Debug/net5.0/ref/CinemaTickets.dll
+/Users/asenkocev/Desktop/SoftUni C#/Basics/Nested Loops - Exercise/CinemaTickets/bin/Debug/net5.0/CinemaTickets.pdb
+/Users/asenkocev/Desktop/SoftUni C#/Basics/Nested Loops - Exercise/CinemaTickets/obj/Debug/net5.0/CinemaTickets.csproj.AssemblyReference.cache
+/Users/asenkocev/Desktop/SoftUni C#/Basics/Nested Loops - Exercise/CinemaTickets/obj/Debug/net5.0/CinemaTickets.GeneratedMSBuildEditorConfig.editorconfig
+/Users/asenkocev/Desktop/SoftUni C#/Basics/Nested Loops - Exercise/CinemaTickets/obj/Debug/net5.0/CinemaTickets.AssemblyInfoInputs.cache
+/Users/asenkocev/Desktop/SoftUni C#/Basics/Nested Loops - Exercise/CinemaTickets/obj/Debug/net5.0/CinemaTickets.AssemblyInfo.cs
+/Users/asenkocev/Desktop/SoftUni C#/Basics/Nested Loops - Exercise/CinemaTickets/obj/Debug/net5.0/CinemaTickets.csproj.CoreCompileInputs.cache
+/Users/asenkocev/Desktop/SoftUni C#/Basics/Nested Loops - Exercise/CinemaTickets/obj/Debug/net5.0/CinemaTickets.dll
+/Users/asenkocev/Desktop/SoftUni C#/Basics/Nested Loops - Exercise/CinemaTickets/obj/Debug/net5.0/ref/CinemaTickets.dll
+/Users/asenkocev/Desktop/SoftUni C#/Basics/Nested Loops - Exercise/CinemaTickets/obj/Debug/net5.0/CinemaTickets.pdb
+/Users/asenkocev/Desktop/SoftUni C#/Basics/Nested Loops - Exercise/CinemaTickets/obj/Debug/net5.0/CinemaTickets.genruntimeconfig.cache

@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{ED56D236-9E37-4D26-9DE3-3B5868644552}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="EvenPowersOf2/Program.cs">
+    <Files>
+      <File FileName="EvenPowersOf2/Program.cs" Line="22" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="EvenPowersOf2" expanded="True">
+            <Node name="EvenPowersOf2" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.EvenPowersOf2 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

@@ -1,0 +1,15 @@
+/Users/asenkocev/Desktop/SoftUni C#/Basics/Conditional Statements Advanced - Exercise/OnTimeForExam/OnTimeForExam/bin/Debug/net5.0/OnTimeForExam.deps.json
+/Users/asenkocev/Desktop/SoftUni C#/Basics/Conditional Statements Advanced - Exercise/OnTimeForExam/OnTimeForExam/bin/Debug/net5.0/OnTimeForExam.runtimeconfig.json
+/Users/asenkocev/Desktop/SoftUni C#/Basics/Conditional Statements Advanced - Exercise/OnTimeForExam/OnTimeForExam/bin/Debug/net5.0/OnTimeForExam.runtimeconfig.dev.json
+/Users/asenkocev/Desktop/SoftUni C#/Basics/Conditional Statements Advanced - Exercise/OnTimeForExam/OnTimeForExam/bin/Debug/net5.0/OnTimeForExam.dll
+/Users/asenkocev/Desktop/SoftUni C#/Basics/Conditional Statements Advanced - Exercise/OnTimeForExam/OnTimeForExam/bin/Debug/net5.0/ref/OnTimeForExam.dll
+/Users/asenkocev/Desktop/SoftUni C#/Basics/Conditional Statements Advanced - Exercise/OnTimeForExam/OnTimeForExam/bin/Debug/net5.0/OnTimeForExam.pdb
+/Users/asenkocev/Desktop/SoftUni C#/Basics/Conditional Statements Advanced - Exercise/OnTimeForExam/OnTimeForExam/obj/Debug/net5.0/OnTimeForExam.csproj.AssemblyReference.cache
+/Users/asenkocev/Desktop/SoftUni C#/Basics/Conditional Statements Advanced - Exercise/OnTimeForExam/OnTimeForExam/obj/Debug/net5.0/OnTimeForExam.GeneratedMSBuildEditorConfig.editorconfig
+/Users/asenkocev/Desktop/SoftUni C#/Basics/Conditional Statements Advanced - Exercise/OnTimeForExam/OnTimeForExam/obj/Debug/net5.0/OnTimeForExam.AssemblyInfoInputs.cache
+/Users/asenkocev/Desktop/SoftUni C#/Basics/Conditional Statements Advanced - Exercise/OnTimeForExam/OnTimeForExam/obj/Debug/net5.0/OnTimeForExam.AssemblyInfo.cs
+/Users/asenkocev/Desktop/SoftUni C#/Basics/Conditional Statements Advanced - Exercise/OnTimeForExam/OnTimeForExam/obj/Debug/net5.0/OnTimeForExam.csproj.CoreCompileInputs.cache
+/Users/asenkocev/Desktop/SoftUni C#/Basics/Conditional Statements Advanced - Exercise/OnTimeForExam/OnTimeForExam/obj/Debug/net5.0/OnTimeForExam.dll
+/Users/asenkocev/Desktop/SoftUni C#/Basics/Conditional Statements Advanced - Exercise/OnTimeForExam/OnTimeForExam/obj/Debug/net5.0/ref/OnTimeForExam.dll
+/Users/asenkocev/Desktop/SoftUni C#/Basics/Conditional Statements Advanced - Exercise/OnTimeForExam/OnTimeForExam/obj/Debug/net5.0/OnTimeForExam.pdb
+/Users/asenkocev/Desktop/SoftUni C#/Basics/Conditional Statements Advanced - Exercise/OnTimeForExam/OnTimeForExam/obj/Debug/net5.0/OnTimeForExam.genruntimeconfig.cache

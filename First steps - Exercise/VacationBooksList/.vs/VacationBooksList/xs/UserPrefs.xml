@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{3A20632A-8354-416E-8C79-8A16307D1786}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="VacationBooksList/Program.cs">
+    <Files>
+      <File FileName="VacationBooksList/Program.cs" Line="18" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="VacationBooksList" expanded="True">
+            <Node name="VacationBooksList" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.VacationBooksList PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

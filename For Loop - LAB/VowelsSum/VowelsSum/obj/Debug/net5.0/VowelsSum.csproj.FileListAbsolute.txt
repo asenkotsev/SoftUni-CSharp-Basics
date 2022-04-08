@@ -1,0 +1,15 @@
+/Users/asenkocev/Desktop/SoftUni C#/Basics/For Loop - LAB/VowelsSum/VowelsSum/bin/Debug/net5.0/VowelsSum.deps.json
+/Users/asenkocev/Desktop/SoftUni C#/Basics/For Loop - LAB/VowelsSum/VowelsSum/bin/Debug/net5.0/VowelsSum.runtimeconfig.json
+/Users/asenkocev/Desktop/SoftUni C#/Basics/For Loop - LAB/VowelsSum/VowelsSum/bin/Debug/net5.0/VowelsSum.runtimeconfig.dev.json
+/Users/asenkocev/Desktop/SoftUni C#/Basics/For Loop - LAB/VowelsSum/VowelsSum/bin/Debug/net5.0/VowelsSum.dll
+/Users/asenkocev/Desktop/SoftUni C#/Basics/For Loop - LAB/VowelsSum/VowelsSum/bin/Debug/net5.0/ref/VowelsSum.dll
+/Users/asenkocev/Desktop/SoftUni C#/Basics/For Loop - LAB/VowelsSum/VowelsSum/bin/Debug/net5.0/VowelsSum.pdb
+/Users/asenkocev/Desktop/SoftUni C#/Basics/For Loop - LAB/VowelsSum/VowelsSum/obj/Debug/net5.0/VowelsSum.csproj.AssemblyReference.cache
+/Users/asenkocev/Desktop/SoftUni C#/Basics/For Loop - LAB/VowelsSum/VowelsSum/obj/Debug/net5.0/VowelsSum.GeneratedMSBuildEditorConfig.editorconfig
+/Users/asenkocev/Desktop/SoftUni C#/Basics/For Loop - LAB/VowelsSum/VowelsSum/obj/Debug/net5.0/VowelsSum.AssemblyInfoInputs.cache
+/Users/asenkocev/Desktop/SoftUni C#/Basics/For Loop - LAB/VowelsSum/VowelsSum/obj/Debug/net5.0/VowelsSum.AssemblyInfo.cs
+/Users/asenkocev/Desktop/SoftUni C#/Basics/For Loop - LAB/VowelsSum/VowelsSum/obj/Debug/net5.0/VowelsSum.csproj.CoreCompileInputs.cache
+/Users/asenkocev/Desktop/SoftUni C#/Basics/For Loop - LAB/VowelsSum/VowelsSum/obj/Debug/net5.0/VowelsSum.dll
+/Users/asenkocev/Desktop/SoftUni C#/Basics/For Loop - LAB/VowelsSum/VowelsSum/obj/Debug/net5.0/ref/VowelsSum.dll
+/Users/asenkocev/Desktop/SoftUni C#/Basics/For Loop - LAB/VowelsSum/VowelsSum/obj/Debug/net5.0/VowelsSum.pdb
+/Users/asenkocev/Desktop/SoftUni C#/Basics/For Loop - LAB/VowelsSum/VowelsSum/obj/Debug/net5.0/VowelsSum.genruntimeconfig.cache

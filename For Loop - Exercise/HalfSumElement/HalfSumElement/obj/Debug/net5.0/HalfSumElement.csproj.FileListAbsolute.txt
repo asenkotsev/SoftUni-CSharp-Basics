@@ -1,0 +1,15 @@
+/Users/asenkocev/Desktop/SoftUni C#/Basics/For Loop - Exercise/HalfSumElement/HalfSumElement/bin/Debug/net5.0/HalfSumElement.deps.json
+/Users/asenkocev/Desktop/SoftUni C#/Basics/For Loop - Exercise/HalfSumElement/HalfSumElement/bin/Debug/net5.0/HalfSumElement.runtimeconfig.json
+/Users/asenkocev/Desktop/SoftUni C#/Basics/For Loop - Exercise/HalfSumElement/HalfSumElement/bin/Debug/net5.0/HalfSumElement.runtimeconfig.dev.json
+/Users/asenkocev/Desktop/SoftUni C#/Basics/For Loop - Exercise/HalfSumElement/HalfSumElement/bin/Debug/net5.0/HalfSumElement.dll
+/Users/asenkocev/Desktop/SoftUni C#/Basics/For Loop - Exercise/HalfSumElement/HalfSumElement/bin/Debug/net5.0/ref/HalfSumElement.dll
+/Users/asenkocev/Desktop/SoftUni C#/Basics/For Loop - Exercise/HalfSumElement/HalfSumElement/bin/Debug/net5.0/HalfSumElement.pdb
+/Users/asenkocev/Desktop/SoftUni C#/Basics/For Loop - Exercise/HalfSumElement/HalfSumElement/obj/Debug/net5.0/HalfSumElement.csproj.AssemblyReference.cache
+/Users/asenkocev/Desktop/SoftUni C#/Basics/For Loop - Exercise/HalfSumElement/HalfSumElement/obj/Debug/net5.0/HalfSumElement.GeneratedMSBuildEditorConfig.editorconfig
+/Users/asenkocev/Desktop/SoftUni C#/Basics/For Loop - Exercise/HalfSumElement/HalfSumElement/obj/Debug/net5.0/HalfSumElement.AssemblyInfoInputs.cache
+/Users/asenkocev/Desktop/SoftUni C#/Basics/For Loop - Exercise/HalfSumElement/HalfSumElement/obj/Debug/net5.0/HalfSumElement.AssemblyInfo.cs
+/Users/asenkocev/Desktop/SoftUni C#/Basics/For Loop - Exercise/HalfSumElement/HalfSumElement/obj/Debug/net5.0/HalfSumElement.csproj.CoreCompileInputs.cache
+/Users/asenkocev/Desktop/SoftUni C#/Basics/For Loop - Exercise/HalfSumElement/HalfSumElement/obj/Debug/net5.0/HalfSumElement.dll
+/Users/asenkocev/Desktop/SoftUni C#/Basics/For Loop - Exercise/HalfSumElement/HalfSumElement/obj/Debug/net5.0/ref/HalfSumElement.dll
+/Users/asenkocev/Desktop/SoftUni C#/Basics/For Loop - Exercise/HalfSumElement/HalfSumElement/obj/Debug/net5.0/HalfSumElement.pdb
+/Users/asenkocev/Desktop/SoftUni C#/Basics/For Loop - Exercise/HalfSumElement/HalfSumElement/obj/Debug/net5.0/HalfSumElement.genruntimeconfig.cache

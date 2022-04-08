@@ -1,0 +1,15 @@
+/Users/asenkocev/Desktop/SoftUni C#/Basics/Conditional Statements Advanced - Exercise/NewHouse/NewHouse/bin/Debug/net5.0/NewHouse.deps.json
+/Users/asenkocev/Desktop/SoftUni C#/Basics/Conditional Statements Advanced - Exercise/NewHouse/NewHouse/bin/Debug/net5.0/NewHouse.runtimeconfig.json
+/Users/asenkocev/Desktop/SoftUni C#/Basics/Conditional Statements Advanced - Exercise/NewHouse/NewHouse/bin/Debug/net5.0/NewHouse.runtimeconfig.dev.json
+/Users/asenkocev/Desktop/SoftUni C#/Basics/Conditional Statements Advanced - Exercise/NewHouse/NewHouse/bin/Debug/net5.0/NewHouse.dll
+/Users/asenkocev/Desktop/SoftUni C#/Basics/Conditional Statements Advanced - Exercise/NewHouse/NewHouse/bin/Debug/net5.0/ref/NewHouse.dll
+/Users/asenkocev/Desktop/SoftUni C#/Basics/Conditional Statements Advanced - Exercise/NewHouse/NewHouse/bin/Debug/net5.0/NewHouse.pdb
+/Users/asenkocev/Desktop/SoftUni C#/Basics/Conditional Statements Advanced - Exercise/NewHouse/NewHouse/obj/Debug/net5.0/NewHouse.csproj.AssemblyReference.cache
+/Users/asenkocev/Desktop/SoftUni C#/Basics/Conditional Statements Advanced - Exercise/NewHouse/NewHouse/obj/Debug/net5.0/NewHouse.GeneratedMSBuildEditorConfig.editorconfig
+/Users/asenkocev/Desktop/SoftUni C#/Basics/Conditional Statements Advanced - Exercise/NewHouse/NewHouse/obj/Debug/net5.0/NewHouse.AssemblyInfoInputs.cache
+/Users/asenkocev/Desktop/SoftUni C#/Basics/Conditional Statements Advanced - Exercise/NewHouse/NewHouse/obj/Debug/net5.0/NewHouse.AssemblyInfo.cs
+/Users/asenkocev/Desktop/SoftUni C#/Basics/Conditional Statements Advanced - Exercise/NewHouse/NewHouse/obj/Debug/net5.0/NewHouse.csproj.CoreCompileInputs.cache
+/Users/asenkocev/Desktop/SoftUni C#/Basics/Conditional Statements Advanced - Exercise/NewHouse/NewHouse/obj/Debug/net5.0/NewHouse.dll
+/Users/asenkocev/Desktop/SoftUni C#/Basics/Conditional Statements Advanced - Exercise/NewHouse/NewHouse/obj/Debug/net5.0/ref/NewHouse.dll
+/Users/asenkocev/Desktop/SoftUni C#/Basics/Conditional Statements Advanced - Exercise/NewHouse/NewHouse/obj/Debug/net5.0/NewHouse.pdb
+/Users/asenkocev/Desktop/SoftUni C#/Basics/Conditional Statements Advanced - Exercise/NewHouse/NewHouse/obj/Debug/net5.0/NewHouse.genruntimeconfig.cache

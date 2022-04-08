@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{94E47206-4993-4949-9231-C5C16486528B}|Default">
+  <MonoDevelop.Ide.ItemProperties.Numbers1ToNWithStep3 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Numbers1ToNWithStep3/Program.cs">
+    <Files>
+      <File FileName="Numbers1ToNWithStep3/Program.cs" Line="18" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Numbers1ToNWithStep3" expanded="True">
+            <Node name="Numbers1ToNWithStep3" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

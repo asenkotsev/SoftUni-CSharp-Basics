@@ -1,0 +1,15 @@
+/Users/asenkocev/Desktop/SoftUni C#/Basics/Conditional Statements Advanced - Exercise/FishingBoat/FishingBoat/bin/Debug/net5.0/FishingBoat.deps.json
+/Users/asenkocev/Desktop/SoftUni C#/Basics/Conditional Statements Advanced - Exercise/FishingBoat/FishingBoat/bin/Debug/net5.0/FishingBoat.runtimeconfig.json
+/Users/asenkocev/Desktop/SoftUni C#/Basics/Conditional Statements Advanced - Exercise/FishingBoat/FishingBoat/bin/Debug/net5.0/FishingBoat.runtimeconfig.dev.json
+/Users/asenkocev/Desktop/SoftUni C#/Basics/Conditional Statements Advanced - Exercise/FishingBoat/FishingBoat/bin/Debug/net5.0/FishingBoat.dll
+/Users/asenkocev/Desktop/SoftUni C#/Basics/Conditional Statements Advanced - Exercise/FishingBoat/FishingBoat/bin/Debug/net5.0/ref/FishingBoat.dll
+/Users/asenkocev/Desktop/SoftUni C#/Basics/Conditional Statements Advanced - Exercise/FishingBoat/FishingBoat/bin/Debug/net5.0/FishingBoat.pdb
+/Users/asenkocev/Desktop/SoftUni C#/Basics/Conditional Statements Advanced - Exercise/FishingBoat/FishingBoat/obj/Debug/net5.0/FishingBoat.csproj.AssemblyReference.cache
+/Users/asenkocev/Desktop/SoftUni C#/Basics/Conditional Statements Advanced - Exercise/FishingBoat/FishingBoat/obj/Debug/net5.0/FishingBoat.GeneratedMSBuildEditorConfig.editorconfig
+/Users/asenkocev/Desktop/SoftUni C#/Basics/Conditional Statements Advanced - Exercise/FishingBoat/FishingBoat/obj/Debug/net5.0/FishingBoat.AssemblyInfoInputs.cache
+/Users/asenkocev/Desktop/SoftUni C#/Basics/Conditional Statements Advanced - Exercise/FishingBoat/FishingBoat/obj/Debug/net5.0/FishingBoat.AssemblyInfo.cs
+/Users/asenkocev/Desktop/SoftUni C#/Basics/Conditional Statements Advanced - Exercise/FishingBoat/FishingBoat/obj/Debug/net5.0/FishingBoat.csproj.CoreCompileInputs.cache
+/Users/asenkocev/Desktop/SoftUni C#/Basics/Conditional Statements Advanced - Exercise/FishingBoat/FishingBoat/obj/Debug/net5.0/FishingBoat.dll
+/Users/asenkocev/Desktop/SoftUni C#/Basics/Conditional Statements Advanced - Exercise/FishingBoat/FishingBoat/obj/Debug/net5.0/ref/FishingBoat.dll
+/Users/asenkocev/Desktop/SoftUni C#/Basics/Conditional Statements Advanced - Exercise/FishingBoat/FishingBoat/obj/Debug/net5.0/FishingBoat.pdb
+/Users/asenkocev/Desktop/SoftUni C#/Basics/Conditional Statements Advanced - Exercise/FishingBoat/FishingBoat/obj/Debug/net5.0/FishingBoat.genruntimeconfig.cache

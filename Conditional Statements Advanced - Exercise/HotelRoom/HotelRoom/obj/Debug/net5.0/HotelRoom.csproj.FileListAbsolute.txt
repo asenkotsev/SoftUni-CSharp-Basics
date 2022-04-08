@@ -1,0 +1,15 @@
+/Users/asenkocev/Desktop/SoftUni C#/Basics/Conditional Statements Advanced - Exercise/HotelRoom/HotelRoom/bin/Debug/net5.0/HotelRoom.deps.json
+/Users/asenkocev/Desktop/SoftUni C#/Basics/Conditional Statements Advanced - Exercise/HotelRoom/HotelRoom/bin/Debug/net5.0/HotelRoom.runtimeconfig.json
+/Users/asenkocev/Desktop/SoftUni C#/Basics/Conditional Statements Advanced - Exercise/HotelRoom/HotelRoom/bin/Debug/net5.0/HotelRoom.runtimeconfig.dev.json
+/Users/asenkocev/Desktop/SoftUni C#/Basics/Conditional Statements Advanced - Exercise/HotelRoom/HotelRoom/bin/Debug/net5.0/HotelRoom.dll
+/Users/asenkocev/Desktop/SoftUni C#/Basics/Conditional Statements Advanced - Exercise/HotelRoom/HotelRoom/bin/Debug/net5.0/ref/HotelRoom.dll
+/Users/asenkocev/Desktop/SoftUni C#/Basics/Conditional Statements Advanced - Exercise/HotelRoom/HotelRoom/bin/Debug/net5.0/HotelRoom.pdb
+/Users/asenkocev/Desktop/SoftUni C#/Basics/Conditional Statements Advanced - Exercise/HotelRoom/HotelRoom/obj/Debug/net5.0/HotelRoom.csproj.AssemblyReference.cache
+/Users/asenkocev/Desktop/SoftUni C#/Basics/Conditional Statements Advanced - Exercise/HotelRoom/HotelRoom/obj/Debug/net5.0/HotelRoom.GeneratedMSBuildEditorConfig.editorconfig
+/Users/asenkocev/Desktop/SoftUni C#/Basics/Conditional Statements Advanced - Exercise/HotelRoom/HotelRoom/obj/Debug/net5.0/HotelRoom.AssemblyInfoInputs.cache
+/Users/asenkocev/Desktop/SoftUni C#/Basics/Conditional Statements Advanced - Exercise/HotelRoom/HotelRoom/obj/Debug/net5.0/HotelRoom.AssemblyInfo.cs
+/Users/asenkocev/Desktop/SoftUni C#/Basics/Conditional Statements Advanced - Exercise/HotelRoom/HotelRoom/obj/Debug/net5.0/HotelRoom.csproj.CoreCompileInputs.cache
+/Users/asenkocev/Desktop/SoftUni C#/Basics/Conditional Statements Advanced - Exercise/HotelRoom/HotelRoom/obj/Debug/net5.0/HotelRoom.dll
+/Users/asenkocev/Desktop/SoftUni C#/Basics/Conditional Statements Advanced - Exercise/HotelRoom/HotelRoom/obj/Debug/net5.0/ref/HotelRoom.dll
+/Users/asenkocev/Desktop/SoftUni C#/Basics/Conditional Statements Advanced - Exercise/HotelRoom/HotelRoom/obj/Debug/net5.0/HotelRoom.pdb
+/Users/asenkocev/Desktop/SoftUni C#/Basics/Conditional Statements Advanced - Exercise/HotelRoom/HotelRoom/obj/Debug/net5.0/HotelRoom.genruntimeconfig.cache

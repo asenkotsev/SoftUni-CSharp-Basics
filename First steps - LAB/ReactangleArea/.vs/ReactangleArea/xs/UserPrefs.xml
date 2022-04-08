@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{6D8B0F5F-8981-4897-B4FD-BCEF1B467A5B}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ReactangleArea/Program.cs">
+    <Files>
+      <File FileName="ReactangleArea/Program.cs" Line="16" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ReactangleArea" expanded="True">
+            <Node name="ReactangleArea" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.ReactangleArea PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

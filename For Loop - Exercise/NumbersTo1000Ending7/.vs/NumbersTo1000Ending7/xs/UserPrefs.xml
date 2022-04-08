@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{7868392A-4560-4A94-9B5D-2C7DEB38EC82}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="NumbersTo1000Ending7/Program.cs">
+    <Files>
+      <File FileName="NumbersTo1000Ending7/Program.cs" Line="19" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="NumbersTo1000Ending7" expanded="True">
+            <Node name="NumbersTo1000Ending7" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.NumbersTo1000Ending7 FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

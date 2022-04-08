@@ -1,0 +1,15 @@
+/Users/asenkocev/Desktop/SoftUni C#/Basics/First steps/PetShop/PetShop/bin/Debug/net5.0/PetShop.deps.json
+/Users/asenkocev/Desktop/SoftUni C#/Basics/First steps/PetShop/PetShop/bin/Debug/net5.0/PetShop.runtimeconfig.json
+/Users/asenkocev/Desktop/SoftUni C#/Basics/First steps/PetShop/PetShop/bin/Debug/net5.0/PetShop.runtimeconfig.dev.json
+/Users/asenkocev/Desktop/SoftUni C#/Basics/First steps/PetShop/PetShop/bin/Debug/net5.0/PetShop.dll
+/Users/asenkocev/Desktop/SoftUni C#/Basics/First steps/PetShop/PetShop/bin/Debug/net5.0/ref/PetShop.dll
+/Users/asenkocev/Desktop/SoftUni C#/Basics/First steps/PetShop/PetShop/bin/Debug/net5.0/PetShop.pdb
+/Users/asenkocev/Desktop/SoftUni C#/Basics/First steps/PetShop/PetShop/obj/Debug/net5.0/PetShop.csproj.AssemblyReference.cache
+/Users/asenkocev/Desktop/SoftUni C#/Basics/First steps/PetShop/PetShop/obj/Debug/net5.0/PetShop.GeneratedMSBuildEditorConfig.editorconfig
+/Users/asenkocev/Desktop/SoftUni C#/Basics/First steps/PetShop/PetShop/obj/Debug/net5.0/PetShop.AssemblyInfoInputs.cache
+/Users/asenkocev/Desktop/SoftUni C#/Basics/First steps/PetShop/PetShop/obj/Debug/net5.0/PetShop.AssemblyInfo.cs
+/Users/asenkocev/Desktop/SoftUni C#/Basics/First steps/PetShop/PetShop/obj/Debug/net5.0/PetShop.csproj.CoreCompileInputs.cache
+/Users/asenkocev/Desktop/SoftUni C#/Basics/First steps/PetShop/PetShop/obj/Debug/net5.0/PetShop.dll
+/Users/asenkocev/Desktop/SoftUni C#/Basics/First steps/PetShop/PetShop/obj/Debug/net5.0/ref/PetShop.dll
+/Users/asenkocev/Desktop/SoftUni C#/Basics/First steps/PetShop/PetShop/obj/Debug/net5.0/PetShop.pdb
+/Users/asenkocev/Desktop/SoftUni C#/Basics/First steps/PetShop/PetShop/obj/Debug/net5.0/PetShop.genruntimeconfig.cache

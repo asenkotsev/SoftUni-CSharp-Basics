@@ -1,0 +1,15 @@
+/Users/asenkocev/Desktop/SoftUni C#/Basics/For Loop - LAB/CharacterSequence/CharacterSequence/bin/Debug/net5.0/CharacterSequence.deps.json
+/Users/asenkocev/Desktop/SoftUni C#/Basics/For Loop - LAB/CharacterSequence/CharacterSequence/bin/Debug/net5.0/CharacterSequence.runtimeconfig.json
+/Users/asenkocev/Desktop/SoftUni C#/Basics/For Loop - LAB/CharacterSequence/CharacterSequence/bin/Debug/net5.0/CharacterSequence.runtimeconfig.dev.json
+/Users/asenkocev/Desktop/SoftUni C#/Basics/For Loop - LAB/CharacterSequence/CharacterSequence/bin/Debug/net5.0/CharacterSequence.dll
+/Users/asenkocev/Desktop/SoftUni C#/Basics/For Loop - LAB/CharacterSequence/CharacterSequence/bin/Debug/net5.0/ref/CharacterSequence.dll
+/Users/asenkocev/Desktop/SoftUni C#/Basics/For Loop - LAB/CharacterSequence/CharacterSequence/bin/Debug/net5.0/CharacterSequence.pdb
+/Users/asenkocev/Desktop/SoftUni C#/Basics/For Loop - LAB/CharacterSequence/CharacterSequence/obj/Debug/net5.0/CharacterSequence.csproj.AssemblyReference.cache
+/Users/asenkocev/Desktop/SoftUni C#/Basics/For Loop - LAB/CharacterSequence/CharacterSequence/obj/Debug/net5.0/CharacterSequence.GeneratedMSBuildEditorConfig.editorconfig
+/Users/asenkocev/Desktop/SoftUni C#/Basics/For Loop - LAB/CharacterSequence/CharacterSequence/obj/Debug/net5.0/CharacterSequence.AssemblyInfoInputs.cache
+/Users/asenkocev/Desktop/SoftUni C#/Basics/For Loop - LAB/CharacterSequence/CharacterSequence/obj/Debug/net5.0/CharacterSequence.AssemblyInfo.cs
+/Users/asenkocev/Desktop/SoftUni C#/Basics/For Loop - LAB/CharacterSequence/CharacterSequence/obj/Debug/net5.0/CharacterSequence.csproj.CoreCompileInputs.cache
+/Users/asenkocev/Desktop/SoftUni C#/Basics/For Loop - LAB/CharacterSequence/CharacterSequence/obj/Debug/net5.0/CharacterSequence.dll
+/Users/asenkocev/Desktop/SoftUni C#/Basics/For Loop - LAB/CharacterSequence/CharacterSequence/obj/Debug/net5.0/ref/CharacterSequence.dll
+/Users/asenkocev/Desktop/SoftUni C#/Basics/For Loop - LAB/CharacterSequence/CharacterSequence/obj/Debug/net5.0/CharacterSequence.pdb
+/Users/asenkocev/Desktop/SoftUni C#/Basics/For Loop - LAB/CharacterSequence/CharacterSequence/obj/Debug/net5.0/CharacterSequence.genruntimeconfig.cache

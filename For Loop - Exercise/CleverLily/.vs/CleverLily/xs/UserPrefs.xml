@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{C79DBC1A-0538-456C-A86E-2707747DAB6C}|Default">
+  <MonoDevelop.Ide.ItemProperties.CleverLily PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="CleverLily/Program.cs">
+    <Files>
+      <File FileName="CleverLily/Program.cs" Line="14" Column="43" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="CleverLily" expanded="True">
+            <Node name="CleverLily" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

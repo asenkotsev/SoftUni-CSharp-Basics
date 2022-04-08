@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{9934E430-3F4A-40E0-BCB0-3C728D9B25A9}|Default">
+  <MonoDevelop.Ide.ItemProperties.NewHouse PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="NewHouse/Program.cs">
+    <Files>
+      <File FileName="NewHouse/Program.cs" Line="55" Column="27" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="NewHouse" expanded="True">
+            <Node name="NewHouse" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

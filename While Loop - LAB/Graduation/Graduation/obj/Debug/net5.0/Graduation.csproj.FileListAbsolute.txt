@@ -1,0 +1,15 @@
+/Users/asenkocev/Desktop/SoftUni C#/Basics/While Loop - LAB/Graduation/Graduation/bin/Debug/net5.0/Graduation.deps.json
+/Users/asenkocev/Desktop/SoftUni C#/Basics/While Loop - LAB/Graduation/Graduation/bin/Debug/net5.0/Graduation.runtimeconfig.json
+/Users/asenkocev/Desktop/SoftUni C#/Basics/While Loop - LAB/Graduation/Graduation/bin/Debug/net5.0/Graduation.runtimeconfig.dev.json
+/Users/asenkocev/Desktop/SoftUni C#/Basics/While Loop - LAB/Graduation/Graduation/bin/Debug/net5.0/Graduation.dll
+/Users/asenkocev/Desktop/SoftUni C#/Basics/While Loop - LAB/Graduation/Graduation/bin/Debug/net5.0/ref/Graduation.dll
+/Users/asenkocev/Desktop/SoftUni C#/Basics/While Loop - LAB/Graduation/Graduation/bin/Debug/net5.0/Graduation.pdb
+/Users/asenkocev/Desktop/SoftUni C#/Basics/While Loop - LAB/Graduation/Graduation/obj/Debug/net5.0/Graduation.csproj.AssemblyReference.cache
+/Users/asenkocev/Desktop/SoftUni C#/Basics/While Loop - LAB/Graduation/Graduation/obj/Debug/net5.0/Graduation.GeneratedMSBuildEditorConfig.editorconfig
+/Users/asenkocev/Desktop/SoftUni C#/Basics/While Loop - LAB/Graduation/Graduation/obj/Debug/net5.0/Graduation.AssemblyInfoInputs.cache
+/Users/asenkocev/Desktop/SoftUni C#/Basics/While Loop - LAB/Graduation/Graduation/obj/Debug/net5.0/Graduation.AssemblyInfo.cs
+/Users/asenkocev/Desktop/SoftUni C#/Basics/While Loop - LAB/Graduation/Graduation/obj/Debug/net5.0/Graduation.csproj.CoreCompileInputs.cache
+/Users/asenkocev/Desktop/SoftUni C#/Basics/While Loop - LAB/Graduation/Graduation/obj/Debug/net5.0/Graduation.dll
+/Users/asenkocev/Desktop/SoftUni C#/Basics/While Loop - LAB/Graduation/Graduation/obj/Debug/net5.0/ref/Graduation.dll
+/Users/asenkocev/Desktop/SoftUni C#/Basics/While Loop - LAB/Graduation/Graduation/obj/Debug/net5.0/Graduation.pdb
+/Users/asenkocev/Desktop/SoftUni C#/Basics/While Loop - LAB/Graduation/Graduation/obj/Debug/net5.0/Graduation.genruntimeconfig.cache

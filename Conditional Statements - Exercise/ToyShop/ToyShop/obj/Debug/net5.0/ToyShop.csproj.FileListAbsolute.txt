@@ -1,0 +1,15 @@
+/Users/asenkocev/Desktop/SoftUni C#/Basics/Conditional Statements - Exercise/ToyShop/ToyShop/bin/Debug/net5.0/ToyShop.deps.json
+/Users/asenkocev/Desktop/SoftUni C#/Basics/Conditional Statements - Exercise/ToyShop/ToyShop/bin/Debug/net5.0/ToyShop.runtimeconfig.json
+/Users/asenkocev/Desktop/SoftUni C#/Basics/Conditional Statements - Exercise/ToyShop/ToyShop/bin/Debug/net5.0/ToyShop.runtimeconfig.dev.json
+/Users/asenkocev/Desktop/SoftUni C#/Basics/Conditional Statements - Exercise/ToyShop/ToyShop/bin/Debug/net5.0/ToyShop.dll
+/Users/asenkocev/Desktop/SoftUni C#/Basics/Conditional Statements - Exercise/ToyShop/ToyShop/bin/Debug/net5.0/ref/ToyShop.dll
+/Users/asenkocev/Desktop/SoftUni C#/Basics/Conditional Statements - Exercise/ToyShop/ToyShop/bin/Debug/net5.0/ToyShop.pdb
+/Users/asenkocev/Desktop/SoftUni C#/Basics/Conditional Statements - Exercise/ToyShop/ToyShop/obj/Debug/net5.0/ToyShop.csproj.AssemblyReference.cache
+/Users/asenkocev/Desktop/SoftUni C#/Basics/Conditional Statements - Exercise/ToyShop/ToyShop/obj/Debug/net5.0/ToyShop.GeneratedMSBuildEditorConfig.editorconfig
+/Users/asenkocev/Desktop/SoftUni C#/Basics/Conditional Statements - Exercise/ToyShop/ToyShop/obj/Debug/net5.0/ToyShop.AssemblyInfoInputs.cache
+/Users/asenkocev/Desktop/SoftUni C#/Basics/Conditional Statements - Exercise/ToyShop/ToyShop/obj/Debug/net5.0/ToyShop.AssemblyInfo.cs
+/Users/asenkocev/Desktop/SoftUni C#/Basics/Conditional Statements - Exercise/ToyShop/ToyShop/obj/Debug/net5.0/ToyShop.csproj.CoreCompileInputs.cache
+/Users/asenkocev/Desktop/SoftUni C#/Basics/Conditional Statements - Exercise/ToyShop/ToyShop/obj/Debug/net5.0/ToyShop.dll
+/Users/asenkocev/Desktop/SoftUni C#/Basics/Conditional Statements - Exercise/ToyShop/ToyShop/obj/Debug/net5.0/ref/ToyShop.dll
+/Users/asenkocev/Desktop/SoftUni C#/Basics/Conditional Statements - Exercise/ToyShop/ToyShop/obj/Debug/net5.0/ToyShop.pdb
+/Users/asenkocev/Desktop/SoftUni C#/Basics/Conditional Statements - Exercise/ToyShop/ToyShop/obj/Debug/net5.0/ToyShop.genruntimeconfig.cache

@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{FC54AA4E-E572-47DB-A87A-37CA1E717841}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="FoodDelivery/Program.cs">
+    <Files>
+      <File FileName="FoodDelivery/Program.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="FoodDelivery" expanded="True">
+            <Node name="FoodDelivery" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.FoodDelivery PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

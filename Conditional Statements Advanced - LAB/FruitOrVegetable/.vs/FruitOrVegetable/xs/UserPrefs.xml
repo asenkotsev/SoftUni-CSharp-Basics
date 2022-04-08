@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{AA31BDAC-77B4-4285-A448-D83BAB6CC2E6}|Default">
+  <MonoDevelop.Ide.ItemProperties.FruitOrVegetable FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="FruitOrVegetable/Program.cs">
+    <Files>
+      <File FileName="FruitOrVegetable/Program.cs" Line="30" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="FruitOrVegetable" expanded="True">
+            <Node name="FruitOrVegetable" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

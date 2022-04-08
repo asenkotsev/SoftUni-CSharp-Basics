@@ -1,0 +1,15 @@
+/Users/asenkocev/Desktop/SoftUni C#/Basics/First steps - Exercise/FishTank/FishTank/bin/Debug/net5.0/FishTank.deps.json
+/Users/asenkocev/Desktop/SoftUni C#/Basics/First steps - Exercise/FishTank/FishTank/bin/Debug/net5.0/FishTank.runtimeconfig.json
+/Users/asenkocev/Desktop/SoftUni C#/Basics/First steps - Exercise/FishTank/FishTank/bin/Debug/net5.0/FishTank.runtimeconfig.dev.json
+/Users/asenkocev/Desktop/SoftUni C#/Basics/First steps - Exercise/FishTank/FishTank/bin/Debug/net5.0/FishTank.dll
+/Users/asenkocev/Desktop/SoftUni C#/Basics/First steps - Exercise/FishTank/FishTank/bin/Debug/net5.0/ref/FishTank.dll
+/Users/asenkocev/Desktop/SoftUni C#/Basics/First steps - Exercise/FishTank/FishTank/bin/Debug/net5.0/FishTank.pdb
+/Users/asenkocev/Desktop/SoftUni C#/Basics/First steps - Exercise/FishTank/FishTank/obj/Debug/net5.0/FishTank.csproj.AssemblyReference.cache
+/Users/asenkocev/Desktop/SoftUni C#/Basics/First steps - Exercise/FishTank/FishTank/obj/Debug/net5.0/FishTank.GeneratedMSBuildEditorConfig.editorconfig
+/Users/asenkocev/Desktop/SoftUni C#/Basics/First steps - Exercise/FishTank/FishTank/obj/Debug/net5.0/FishTank.AssemblyInfoInputs.cache
+/Users/asenkocev/Desktop/SoftUni C#/Basics/First steps - Exercise/FishTank/FishTank/obj/Debug/net5.0/FishTank.AssemblyInfo.cs
+/Users/asenkocev/Desktop/SoftUni C#/Basics/First steps - Exercise/FishTank/FishTank/obj/Debug/net5.0/FishTank.csproj.CoreCompileInputs.cache
+/Users/asenkocev/Desktop/SoftUni C#/Basics/First steps - Exercise/FishTank/FishTank/obj/Debug/net5.0/FishTank.dll
+/Users/asenkocev/Desktop/SoftUni C#/Basics/First steps - Exercise/FishTank/FishTank/obj/Debug/net5.0/ref/FishTank.dll
+/Users/asenkocev/Desktop/SoftUni C#/Basics/First steps - Exercise/FishTank/FishTank/obj/Debug/net5.0/FishTank.pdb
+/Users/asenkocev/Desktop/SoftUni C#/Basics/First steps - Exercise/FishTank/FishTank/obj/Debug/net5.0/FishTank.genruntimeconfig.cache

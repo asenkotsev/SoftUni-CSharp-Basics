@@ -1,0 +1,15 @@
+/Users/asenkocev/Desktop/SoftUni C#/Basics/While Loop - Exercise/OldBooks/OldBooks/bin/Debug/net5.0/OldBooks.deps.json
+/Users/asenkocev/Desktop/SoftUni C#/Basics/While Loop - Exercise/OldBooks/OldBooks/bin/Debug/net5.0/OldBooks.runtimeconfig.json
+/Users/asenkocev/Desktop/SoftUni C#/Basics/While Loop - Exercise/OldBooks/OldBooks/bin/Debug/net5.0/OldBooks.runtimeconfig.dev.json
+/Users/asenkocev/Desktop/SoftUni C#/Basics/While Loop - Exercise/OldBooks/OldBooks/bin/Debug/net5.0/OldBooks.dll
+/Users/asenkocev/Desktop/SoftUni C#/Basics/While Loop - Exercise/OldBooks/OldBooks/bin/Debug/net5.0/ref/OldBooks.dll
+/Users/asenkocev/Desktop/SoftUni C#/Basics/While Loop - Exercise/OldBooks/OldBooks/bin/Debug/net5.0/OldBooks.pdb
+/Users/asenkocev/Desktop/SoftUni C#/Basics/While Loop - Exercise/OldBooks/OldBooks/obj/Debug/net5.0/OldBooks.csproj.AssemblyReference.cache
+/Users/asenkocev/Desktop/SoftUni C#/Basics/While Loop - Exercise/OldBooks/OldBooks/obj/Debug/net5.0/OldBooks.GeneratedMSBuildEditorConfig.editorconfig
+/Users/asenkocev/Desktop/SoftUni C#/Basics/While Loop - Exercise/OldBooks/OldBooks/obj/Debug/net5.0/OldBooks.AssemblyInfoInputs.cache
+/Users/asenkocev/Desktop/SoftUni C#/Basics/While Loop - Exercise/OldBooks/OldBooks/obj/Debug/net5.0/OldBooks.AssemblyInfo.cs
+/Users/asenkocev/Desktop/SoftUni C#/Basics/While Loop - Exercise/OldBooks/OldBooks/obj/Debug/net5.0/OldBooks.csproj.CoreCompileInputs.cache
+/Users/asenkocev/Desktop/SoftUni C#/Basics/While Loop - Exercise/OldBooks/OldBooks/obj/Debug/net5.0/OldBooks.dll
+/Users/asenkocev/Desktop/SoftUni C#/Basics/While Loop - Exercise/OldBooks/OldBooks/obj/Debug/net5.0/ref/OldBooks.dll
+/Users/asenkocev/Desktop/SoftUni C#/Basics/While Loop - Exercise/OldBooks/OldBooks/obj/Debug/net5.0/OldBooks.pdb
+/Users/asenkocev/Desktop/SoftUni C#/Basics/While Loop - Exercise/OldBooks/OldBooks/obj/Debug/net5.0/OldBooks.genruntimeconfig.cache

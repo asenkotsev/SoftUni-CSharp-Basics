@@ -1,0 +1,15 @@
+/Users/asenkocev/Desktop/SoftUni C#/Basics/For Loop - Exercise/TrekkingMania/TrekkingMania/obj/Debug/net5.0/TrekkingMania.csproj.AssemblyReference.cache
+/Users/asenkocev/Desktop/SoftUni C#/Basics/For Loop - Exercise/TrekkingMania/TrekkingMania/obj/Debug/net5.0/TrekkingMania.GeneratedMSBuildEditorConfig.editorconfig
+/Users/asenkocev/Desktop/SoftUni C#/Basics/For Loop - Exercise/TrekkingMania/TrekkingMania/obj/Debug/net5.0/TrekkingMania.AssemblyInfoInputs.cache
+/Users/asenkocev/Desktop/SoftUni C#/Basics/For Loop - Exercise/TrekkingMania/TrekkingMania/obj/Debug/net5.0/TrekkingMania.AssemblyInfo.cs
+/Users/asenkocev/Desktop/SoftUni C#/Basics/For Loop - Exercise/TrekkingMania/TrekkingMania/obj/Debug/net5.0/TrekkingMania.csproj.CoreCompileInputs.cache
+/Users/asenkocev/Desktop/SoftUni C#/Basics/For Loop - Exercise/TrekkingMania/TrekkingMania/bin/Debug/net5.0/TrekkingMania.deps.json
+/Users/asenkocev/Desktop/SoftUni C#/Basics/For Loop - Exercise/TrekkingMania/TrekkingMania/bin/Debug/net5.0/TrekkingMania.runtimeconfig.json
+/Users/asenkocev/Desktop/SoftUni C#/Basics/For Loop - Exercise/TrekkingMania/TrekkingMania/bin/Debug/net5.0/TrekkingMania.runtimeconfig.dev.json
+/Users/asenkocev/Desktop/SoftUni C#/Basics/For Loop - Exercise/TrekkingMania/TrekkingMania/bin/Debug/net5.0/TrekkingMania.dll
+/Users/asenkocev/Desktop/SoftUni C#/Basics/For Loop - Exercise/TrekkingMania/TrekkingMania/bin/Debug/net5.0/ref/TrekkingMania.dll
+/Users/asenkocev/Desktop/SoftUni C#/Basics/For Loop - Exercise/TrekkingMania/TrekkingMania/bin/Debug/net5.0/TrekkingMania.pdb
+/Users/asenkocev/Desktop/SoftUni C#/Basics/For Loop - Exercise/TrekkingMania/TrekkingMania/obj/Debug/net5.0/TrekkingMania.dll
+/Users/asenkocev/Desktop/SoftUni C#/Basics/For Loop - Exercise/TrekkingMania/TrekkingMania/obj/Debug/net5.0/ref/TrekkingMania.dll
+/Users/asenkocev/Desktop/SoftUni C#/Basics/For Loop - Exercise/TrekkingMania/TrekkingMania/obj/Debug/net5.0/TrekkingMania.pdb
+/Users/asenkocev/Desktop/SoftUni C#/Basics/For Loop - Exercise/TrekkingMania/TrekkingMania/obj/Debug/net5.0/TrekkingMania.genruntimeconfig.cache

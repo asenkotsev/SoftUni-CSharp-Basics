@@ -1,0 +1,15 @@
+/Users/asenkocev/Desktop/SoftUni C#/Basics/First steps/GreetingsByName/GreetingsByName/bin/Debug/net5.0/GreetingsByName.deps.json
+/Users/asenkocev/Desktop/SoftUni C#/Basics/First steps/GreetingsByName/GreetingsByName/bin/Debug/net5.0/GreetingsByName.runtimeconfig.json
+/Users/asenkocev/Desktop/SoftUni C#/Basics/First steps/GreetingsByName/GreetingsByName/bin/Debug/net5.0/GreetingsByName.runtimeconfig.dev.json
+/Users/asenkocev/Desktop/SoftUni C#/Basics/First steps/GreetingsByName/GreetingsByName/bin/Debug/net5.0/GreetingsByName.dll
+/Users/asenkocev/Desktop/SoftUni C#/Basics/First steps/GreetingsByName/GreetingsByName/bin/Debug/net5.0/ref/GreetingsByName.dll
+/Users/asenkocev/Desktop/SoftUni C#/Basics/First steps/GreetingsByName/GreetingsByName/bin/Debug/net5.0/GreetingsByName.pdb
+/Users/asenkocev/Desktop/SoftUni C#/Basics/First steps/GreetingsByName/GreetingsByName/obj/Debug/net5.0/GreetingsByName.csproj.AssemblyReference.cache
+/Users/asenkocev/Desktop/SoftUni C#/Basics/First steps/GreetingsByName/GreetingsByName/obj/Debug/net5.0/GreetingsByName.GeneratedMSBuildEditorConfig.editorconfig
+/Users/asenkocev/Desktop/SoftUni C#/Basics/First steps/GreetingsByName/GreetingsByName/obj/Debug/net5.0/GreetingsByName.AssemblyInfoInputs.cache
+/Users/asenkocev/Desktop/SoftUni C#/Basics/First steps/GreetingsByName/GreetingsByName/obj/Debug/net5.0/GreetingsByName.AssemblyInfo.cs
+/Users/asenkocev/Desktop/SoftUni C#/Basics/First steps/GreetingsByName/GreetingsByName/obj/Debug/net5.0/GreetingsByName.csproj.CoreCompileInputs.cache
+/Users/asenkocev/Desktop/SoftUni C#/Basics/First steps/GreetingsByName/GreetingsByName/obj/Debug/net5.0/GreetingsByName.dll
+/Users/asenkocev/Desktop/SoftUni C#/Basics/First steps/GreetingsByName/GreetingsByName/obj/Debug/net5.0/ref/GreetingsByName.dll
+/Users/asenkocev/Desktop/SoftUni C#/Basics/First steps/GreetingsByName/GreetingsByName/obj/Debug/net5.0/GreetingsByName.pdb
+/Users/asenkocev/Desktop/SoftUni C#/Basics/First steps/GreetingsByName/GreetingsByName/obj/Debug/net5.0/GreetingsByName.genruntimeconfig.cache

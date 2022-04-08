@@ -1,0 +1,15 @@
+/Users/asenkocev/Desktop/SoftUni C#/Basics/For Loop - LAB/Numbers1ToNWithStep3/Numbers1ToNWithStep3/bin/Debug/net5.0/Numbers1ToNWithStep3.deps.json
+/Users/asenkocev/Desktop/SoftUni C#/Basics/For Loop - LAB/Numbers1ToNWithStep3/Numbers1ToNWithStep3/bin/Debug/net5.0/Numbers1ToNWithStep3.runtimeconfig.json
+/Users/asenkocev/Desktop/SoftUni C#/Basics/For Loop - LAB/Numbers1ToNWithStep3/Numbers1ToNWithStep3/bin/Debug/net5.0/Numbers1ToNWithStep3.runtimeconfig.dev.json
+/Users/asenkocev/Desktop/SoftUni C#/Basics/For Loop - LAB/Numbers1ToNWithStep3/Numbers1ToNWithStep3/bin/Debug/net5.0/Numbers1ToNWithStep3.dll
+/Users/asenkocev/Desktop/SoftUni C#/Basics/For Loop - LAB/Numbers1ToNWithStep3/Numbers1ToNWithStep3/bin/Debug/net5.0/ref/Numbers1ToNWithStep3.dll
+/Users/asenkocev/Desktop/SoftUni C#/Basics/For Loop - LAB/Numbers1ToNWithStep3/Numbers1ToNWithStep3/bin/Debug/net5.0/Numbers1ToNWithStep3.pdb
+/Users/asenkocev/Desktop/SoftUni C#/Basics/For Loop - LAB/Numbers1ToNWithStep3/Numbers1ToNWithStep3/obj/Debug/net5.0/Numbers1ToNWithStep3.csproj.AssemblyReference.cache
+/Users/asenkocev/Desktop/SoftUni C#/Basics/For Loop - LAB/Numbers1ToNWithStep3/Numbers1ToNWithStep3/obj/Debug/net5.0/Numbers1ToNWithStep3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/asenkocev/Desktop/SoftUni C#/Basics/For Loop - LAB/Numbers1ToNWithStep3/Numbers1ToNWithStep3/obj/Debug/net5.0/Numbers1ToNWithStep3.AssemblyInfoInputs.cache
+/Users/asenkocev/Desktop/SoftUni C#/Basics/For Loop - LAB/Numbers1ToNWithStep3/Numbers1ToNWithStep3/obj/Debug/net5.0/Numbers1ToNWithStep3.AssemblyInfo.cs
+/Users/asenkocev/Desktop/SoftUni C#/Basics/For Loop - LAB/Numbers1ToNWithStep3/Numbers1ToNWithStep3/obj/Debug/net5.0/Numbers1ToNWithStep3.csproj.CoreCompileInputs.cache
+/Users/asenkocev/Desktop/SoftUni C#/Basics/For Loop - LAB/Numbers1ToNWithStep3/Numbers1ToNWithStep3/obj/Debug/net5.0/Numbers1ToNWithStep3.dll
+/Users/asenkocev/Desktop/SoftUni C#/Basics/For Loop - LAB/Numbers1ToNWithStep3/Numbers1ToNWithStep3/obj/Debug/net5.0/ref/Numbers1ToNWithStep3.dll
+/Users/asenkocev/Desktop/SoftUni C#/Basics/For Loop - LAB/Numbers1ToNWithStep3/Numbers1ToNWithStep3/obj/Debug/net5.0/Numbers1ToNWithStep3.pdb
+/Users/asenkocev/Desktop/SoftUni C#/Basics/For Loop - LAB/Numbers1ToNWithStep3/Numbers1ToNWithStep3/obj/Debug/net5.0/Numbers1ToNWithStep3.genruntimeconfig.cache

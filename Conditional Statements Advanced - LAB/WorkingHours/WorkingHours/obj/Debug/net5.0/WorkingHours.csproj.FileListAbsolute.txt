@@ -1,0 +1,15 @@
+/Users/asenkocev/Desktop/SoftUni C#/Basics/Conditional Statements Advanced - LAB/WorkingHours/WorkingHours/obj/Debug/net5.0/WorkingHours.csproj.AssemblyReference.cache
+/Users/asenkocev/Desktop/SoftUni C#/Basics/Conditional Statements Advanced - LAB/WorkingHours/WorkingHours/obj/Debug/net5.0/WorkingHours.GeneratedMSBuildEditorConfig.editorconfig
+/Users/asenkocev/Desktop/SoftUni C#/Basics/Conditional Statements Advanced - LAB/WorkingHours/WorkingHours/obj/Debug/net5.0/WorkingHours.AssemblyInfoInputs.cache
+/Users/asenkocev/Desktop/SoftUni C#/Basics/Conditional Statements Advanced - LAB/WorkingHours/WorkingHours/obj/Debug/net5.0/WorkingHours.AssemblyInfo.cs
+/Users/asenkocev/Desktop/SoftUni C#/Basics/Conditional Statements Advanced - LAB/WorkingHours/WorkingHours/obj/Debug/net5.0/WorkingHours.csproj.CoreCompileInputs.cache
+/Users/asenkocev/Desktop/SoftUni C#/Basics/Conditional Statements Advanced - LAB/WorkingHours/WorkingHours/bin/Debug/net5.0/WorkingHours.deps.json
+/Users/asenkocev/Desktop/SoftUni C#/Basics/Conditional Statements Advanced - LAB/WorkingHours/WorkingHours/bin/Debug/net5.0/WorkingHours.runtimeconfig.json
+/Users/asenkocev/Desktop/SoftUni C#/Basics/Conditional Statements Advanced - LAB/WorkingHours/WorkingHours/bin/Debug/net5.0/WorkingHours.runtimeconfig.dev.json
+/Users/asenkocev/Desktop/SoftUni C#/Basics/Conditional Statements Advanced - LAB/WorkingHours/WorkingHours/bin/Debug/net5.0/WorkingHours.dll
+/Users/asenkocev/Desktop/SoftUni C#/Basics/Conditional Statements Advanced - LAB/WorkingHours/WorkingHours/bin/Debug/net5.0/ref/WorkingHours.dll
+/Users/asenkocev/Desktop/SoftUni C#/Basics/Conditional Statements Advanced - LAB/WorkingHours/WorkingHours/bin/Debug/net5.0/WorkingHours.pdb
+/Users/asenkocev/Desktop/SoftUni C#/Basics/Conditional Statements Advanced - LAB/WorkingHours/WorkingHours/obj/Debug/net5.0/WorkingHours.dll
+/Users/asenkocev/Desktop/SoftUni C#/Basics/Conditional Statements Advanced - LAB/WorkingHours/WorkingHours/obj/Debug/net5.0/ref/WorkingHours.dll
+/Users/asenkocev/Desktop/SoftUni C#/Basics/Conditional Statements Advanced - LAB/WorkingHours/WorkingHours/obj/Debug/net5.0/WorkingHours.pdb
+/Users/asenkocev/Desktop/SoftUni C#/Basics/Conditional Statements Advanced - LAB/WorkingHours/WorkingHours/obj/Debug/net5.0/WorkingHours.genruntimeconfig.cache

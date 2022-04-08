@@ -1,0 +1,15 @@
+/Users/asenkocev/Desktop/SoftUni C#/Basics/While Loop - LAB/АccountBalance/АccountBalance/bin/Debug/net5.0/АccountBalance.deps.json
+/Users/asenkocev/Desktop/SoftUni C#/Basics/While Loop - LAB/АccountBalance/АccountBalance/bin/Debug/net5.0/АccountBalance.runtimeconfig.json
+/Users/asenkocev/Desktop/SoftUni C#/Basics/While Loop - LAB/АccountBalance/АccountBalance/bin/Debug/net5.0/АccountBalance.runtimeconfig.dev.json
+/Users/asenkocev/Desktop/SoftUni C#/Basics/While Loop - LAB/АccountBalance/АccountBalance/bin/Debug/net5.0/АccountBalance.dll
+/Users/asenkocev/Desktop/SoftUni C#/Basics/While Loop - LAB/АccountBalance/АccountBalance/bin/Debug/net5.0/ref/АccountBalance.dll
+/Users/asenkocev/Desktop/SoftUni C#/Basics/While Loop - LAB/АccountBalance/АccountBalance/bin/Debug/net5.0/АccountBalance.pdb
+/Users/asenkocev/Desktop/SoftUni C#/Basics/While Loop - LAB/АccountBalance/АccountBalance/obj/Debug/net5.0/АccountBalance.csproj.AssemblyReference.cache
+/Users/asenkocev/Desktop/SoftUni C#/Basics/While Loop - LAB/АccountBalance/АccountBalance/obj/Debug/net5.0/АccountBalance.GeneratedMSBuildEditorConfig.editorconfig
+/Users/asenkocev/Desktop/SoftUni C#/Basics/While Loop - LAB/АccountBalance/АccountBalance/obj/Debug/net5.0/АccountBalance.AssemblyInfoInputs.cache
+/Users/asenkocev/Desktop/SoftUni C#/Basics/While Loop - LAB/АccountBalance/АccountBalance/obj/Debug/net5.0/АccountBalance.AssemblyInfo.cs
+/Users/asenkocev/Desktop/SoftUni C#/Basics/While Loop - LAB/АccountBalance/АccountBalance/obj/Debug/net5.0/АccountBalance.csproj.CoreCompileInputs.cache
+/Users/asenkocev/Desktop/SoftUni C#/Basics/While Loop - LAB/АccountBalance/АccountBalance/obj/Debug/net5.0/АccountBalance.dll
+/Users/asenkocev/Desktop/SoftUni C#/Basics/While Loop - LAB/АccountBalance/АccountBalance/obj/Debug/net5.0/ref/АccountBalance.dll
+/Users/asenkocev/Desktop/SoftUni C#/Basics/While Loop - LAB/АccountBalance/АccountBalance/obj/Debug/net5.0/АccountBalance.pdb
+/Users/asenkocev/Desktop/SoftUni C#/Basics/While Loop - LAB/АccountBalance/АccountBalance/obj/Debug/net5.0/АccountBalance.genruntimeconfig.cache

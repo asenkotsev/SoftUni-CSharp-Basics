@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{46D3FA08-CF1D-4B38-A9F8-50D3F877E3B2}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="TennisRanklist/Program.cs">
+    <Files>
+      <File FileName="TennisRanklist/Program.cs" Line="41" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="TennisRanklist" expanded="True">
+            <Node name="TennisRanklist" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.TennisRanklist PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

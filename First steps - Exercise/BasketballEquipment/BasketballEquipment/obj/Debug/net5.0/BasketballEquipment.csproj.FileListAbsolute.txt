@@ -1,0 +1,15 @@
+/Users/asenkocev/Desktop/SoftUni C#/Basics/First steps - Exercise/BasketballEquipment/BasketballEquipment/bin/Debug/net5.0/BasketballEquipment.deps.json
+/Users/asenkocev/Desktop/SoftUni C#/Basics/First steps - Exercise/BasketballEquipment/BasketballEquipment/bin/Debug/net5.0/BasketballEquipment.runtimeconfig.json
+/Users/asenkocev/Desktop/SoftUni C#/Basics/First steps - Exercise/BasketballEquipment/BasketballEquipment/bin/Debug/net5.0/BasketballEquipment.runtimeconfig.dev.json
+/Users/asenkocev/Desktop/SoftUni C#/Basics/First steps - Exercise/BasketballEquipment/BasketballEquipment/bin/Debug/net5.0/BasketballEquipment.dll
+/Users/asenkocev/Desktop/SoftUni C#/Basics/First steps - Exercise/BasketballEquipment/BasketballEquipment/bin/Debug/net5.0/ref/BasketballEquipment.dll
+/Users/asenkocev/Desktop/SoftUni C#/Basics/First steps - Exercise/BasketballEquipment/BasketballEquipment/bin/Debug/net5.0/BasketballEquipment.pdb
+/Users/asenkocev/Desktop/SoftUni C#/Basics/First steps - Exercise/BasketballEquipment/BasketballEquipment/obj/Debug/net5.0/BasketballEquipment.csproj.AssemblyReference.cache
+/Users/asenkocev/Desktop/SoftUni C#/Basics/First steps - Exercise/BasketballEquipment/BasketballEquipment/obj/Debug/net5.0/BasketballEquipment.GeneratedMSBuildEditorConfig.editorconfig
+/Users/asenkocev/Desktop/SoftUni C#/Basics/First steps - Exercise/BasketballEquipment/BasketballEquipment/obj/Debug/net5.0/BasketballEquipment.AssemblyInfoInputs.cache
+/Users/asenkocev/Desktop/SoftUni C#/Basics/First steps - Exercise/BasketballEquipment/BasketballEquipment/obj/Debug/net5.0/BasketballEquipment.AssemblyInfo.cs
+/Users/asenkocev/Desktop/SoftUni C#/Basics/First steps - Exercise/BasketballEquipment/BasketballEquipment/obj/Debug/net5.0/BasketballEquipment.csproj.CoreCompileInputs.cache
+/Users/asenkocev/Desktop/SoftUni C#/Basics/First steps - Exercise/BasketballEquipment/BasketballEquipment/obj/Debug/net5.0/BasketballEquipment.dll
+/Users/asenkocev/Desktop/SoftUni C#/Basics/First steps - Exercise/BasketballEquipment/BasketballEquipment/obj/Debug/net5.0/ref/BasketballEquipment.dll
+/Users/asenkocev/Desktop/SoftUni C#/Basics/First steps - Exercise/BasketballEquipment/BasketballEquipment/obj/Debug/net5.0/BasketballEquipment.pdb
+/Users/asenkocev/Desktop/SoftUni C#/Basics/First steps - Exercise/BasketballEquipment/BasketballEquipment/obj/Debug/net5.0/BasketballEquipment.genruntimeconfig.cache

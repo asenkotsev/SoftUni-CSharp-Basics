@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{763B73A1-B01E-4333-ABF7-9388642C6447}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Oscars/Program.cs">
+    <Files>
+      <File FileName="Oscars/Program.cs" Line="24" Column="34" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Oscars" expanded="True">
+            <Node name="Oscars" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Oscars PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

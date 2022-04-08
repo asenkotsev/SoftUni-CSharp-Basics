@@ -1,0 +1,15 @@
+/Users/asenkocev/Desktop/SoftUni C#/Basics/While Loop - Exercise/Vacation/Vacation/bin/Debug/net5.0/Vacation.deps.json
+/Users/asenkocev/Desktop/SoftUni C#/Basics/While Loop - Exercise/Vacation/Vacation/bin/Debug/net5.0/Vacation.runtimeconfig.json
+/Users/asenkocev/Desktop/SoftUni C#/Basics/While Loop - Exercise/Vacation/Vacation/bin/Debug/net5.0/Vacation.runtimeconfig.dev.json
+/Users/asenkocev/Desktop/SoftUni C#/Basics/While Loop - Exercise/Vacation/Vacation/bin/Debug/net5.0/Vacation.dll
+/Users/asenkocev/Desktop/SoftUni C#/Basics/While Loop - Exercise/Vacation/Vacation/bin/Debug/net5.0/ref/Vacation.dll
+/Users/asenkocev/Desktop/SoftUni C#/Basics/While Loop - Exercise/Vacation/Vacation/bin/Debug/net5.0/Vacation.pdb
+/Users/asenkocev/Desktop/SoftUni C#/Basics/While Loop - Exercise/Vacation/Vacation/obj/Debug/net5.0/Vacation.csproj.AssemblyReference.cache
+/Users/asenkocev/Desktop/SoftUni C#/Basics/While Loop - Exercise/Vacation/Vacation/obj/Debug/net5.0/Vacation.GeneratedMSBuildEditorConfig.editorconfig
+/Users/asenkocev/Desktop/SoftUni C#/Basics/While Loop - Exercise/Vacation/Vacation/obj/Debug/net5.0/Vacation.AssemblyInfoInputs.cache
+/Users/asenkocev/Desktop/SoftUni C#/Basics/While Loop - Exercise/Vacation/Vacation/obj/Debug/net5.0/Vacation.AssemblyInfo.cs
+/Users/asenkocev/Desktop/SoftUni C#/Basics/While Loop - Exercise/Vacation/Vacation/obj/Debug/net5.0/Vacation.csproj.CoreCompileInputs.cache
+/Users/asenkocev/Desktop/SoftUni C#/Basics/While Loop - Exercise/Vacation/Vacation/obj/Debug/net5.0/Vacation.dll
+/Users/asenkocev/Desktop/SoftUni C#/Basics/While Loop - Exercise/Vacation/Vacation/obj/Debug/net5.0/ref/Vacation.dll
+/Users/asenkocev/Desktop/SoftUni C#/Basics/While Loop - Exercise/Vacation/Vacation/obj/Debug/net5.0/Vacation.pdb
+/Users/asenkocev/Desktop/SoftUni C#/Basics/While Loop - Exercise/Vacation/Vacation/obj/Debug/net5.0/Vacation.genruntimeconfig.cache

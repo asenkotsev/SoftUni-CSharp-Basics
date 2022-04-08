@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "EqualSumsOddEvenPositions/1.0.0": {
+        "runtime": {
+          "EqualSumsOddEvenPositions.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "EqualSumsOddEvenPositions/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

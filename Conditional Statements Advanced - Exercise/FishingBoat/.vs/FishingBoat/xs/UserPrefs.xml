@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{4CD341E9-AD05-470E-929A-6F2C3B60E3C8}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="FishingBoat/Program.cs">
+    <Files>
+      <File FileName="FishingBoat/Program.cs" Line="54" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="FishingBoat" expanded="True">
+            <Node name="FishingBoat" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.FishingBoat PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

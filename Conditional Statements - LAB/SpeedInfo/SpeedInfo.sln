@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.810.21
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpeedInfo", "SpeedInfo\SpeedInfo.csproj", "{B4257DF8-C18A-4CA2-A29A-DBB2A5B9162A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B4257DF8-C18A-4CA2-A29A-DBB2A5B9162A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B4257DF8-C18A-4CA2-A29A-DBB2A5B9162A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B4257DF8-C18A-4CA2-A29A-DBB2A5B9162A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B4257DF8-C18A-4CA2-A29A-DBB2A5B9162A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7CF82531-47D9-44AD-AD83-A673F3B6051C}
+	EndGlobalSection
+EndGlobal

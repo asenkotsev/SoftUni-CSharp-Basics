@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{11FFF5F5-7805-4FB3-8DDC-6AD52D9385F8}|Default">
+  <MonoDevelop.Ide.ItemProperties.ConcatenateData PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="ConcatenateData/Program.cs">
+    <Files>
+      <File FileName="ConcatenateData/Program.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ConcatenateData" expanded="True">
+            <Node name="ConcatenateData" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

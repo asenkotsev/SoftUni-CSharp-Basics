@@ -1,0 +1,15 @@
+/Users/asenkocev/Desktop/SoftUni C#/Basics/First steps - Exercise/FoodDelivery/FoodDelivery/bin/Debug/net5.0/FoodDelivery.deps.json
+/Users/asenkocev/Desktop/SoftUni C#/Basics/First steps - Exercise/FoodDelivery/FoodDelivery/bin/Debug/net5.0/FoodDelivery.runtimeconfig.json
+/Users/asenkocev/Desktop/SoftUni C#/Basics/First steps - Exercise/FoodDelivery/FoodDelivery/bin/Debug/net5.0/FoodDelivery.runtimeconfig.dev.json
+/Users/asenkocev/Desktop/SoftUni C#/Basics/First steps - Exercise/FoodDelivery/FoodDelivery/bin/Debug/net5.0/FoodDelivery.dll
+/Users/asenkocev/Desktop/SoftUni C#/Basics/First steps - Exercise/FoodDelivery/FoodDelivery/bin/Debug/net5.0/ref/FoodDelivery.dll
+/Users/asenkocev/Desktop/SoftUni C#/Basics/First steps - Exercise/FoodDelivery/FoodDelivery/bin/Debug/net5.0/FoodDelivery.pdb
+/Users/asenkocev/Desktop/SoftUni C#/Basics/First steps - Exercise/FoodDelivery/FoodDelivery/obj/Debug/net5.0/FoodDelivery.csproj.AssemblyReference.cache
+/Users/asenkocev/Desktop/SoftUni C#/Basics/First steps - Exercise/FoodDelivery/FoodDelivery/obj/Debug/net5.0/FoodDelivery.GeneratedMSBuildEditorConfig.editorconfig
+/Users/asenkocev/Desktop/SoftUni C#/Basics/First steps - Exercise/FoodDelivery/FoodDelivery/obj/Debug/net5.0/FoodDelivery.AssemblyInfoInputs.cache
+/Users/asenkocev/Desktop/SoftUni C#/Basics/First steps - Exercise/FoodDelivery/FoodDelivery/obj/Debug/net5.0/FoodDelivery.AssemblyInfo.cs
+/Users/asenkocev/Desktop/SoftUni C#/Basics/First steps - Exercise/FoodDelivery/FoodDelivery/obj/Debug/net5.0/FoodDelivery.csproj.CoreCompileInputs.cache
+/Users/asenkocev/Desktop/SoftUni C#/Basics/First steps - Exercise/FoodDelivery/FoodDelivery/obj/Debug/net5.0/FoodDelivery.dll
+/Users/asenkocev/Desktop/SoftUni C#/Basics/First steps - Exercise/FoodDelivery/FoodDelivery/obj/Debug/net5.0/ref/FoodDelivery.dll
+/Users/asenkocev/Desktop/SoftUni C#/Basics/First steps - Exercise/FoodDelivery/FoodDelivery/obj/Debug/net5.0/FoodDelivery.pdb
+/Users/asenkocev/Desktop/SoftUni C#/Basics/First steps - Exercise/FoodDelivery/FoodDelivery/obj/Debug/net5.0/FoodDelivery.genruntimeconfig.cache

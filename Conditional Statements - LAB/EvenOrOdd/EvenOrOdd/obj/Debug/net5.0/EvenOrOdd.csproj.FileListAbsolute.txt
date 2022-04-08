@@ -1,0 +1,15 @@
+/Users/asenkocev/Desktop/SoftUni C#/Basics/Conditional Statements - LAB/EvenOrOdd/EvenOrOdd/bin/Debug/net5.0/EvenOrOdd.deps.json
+/Users/asenkocev/Desktop/SoftUni C#/Basics/Conditional Statements - LAB/EvenOrOdd/EvenOrOdd/bin/Debug/net5.0/EvenOrOdd.runtimeconfig.json
+/Users/asenkocev/Desktop/SoftUni C#/Basics/Conditional Statements - LAB/EvenOrOdd/EvenOrOdd/bin/Debug/net5.0/EvenOrOdd.runtimeconfig.dev.json
+/Users/asenkocev/Desktop/SoftUni C#/Basics/Conditional Statements - LAB/EvenOrOdd/EvenOrOdd/bin/Debug/net5.0/EvenOrOdd.dll
+/Users/asenkocev/Desktop/SoftUni C#/Basics/Conditional Statements - LAB/EvenOrOdd/EvenOrOdd/bin/Debug/net5.0/ref/EvenOrOdd.dll
+/Users/asenkocev/Desktop/SoftUni C#/Basics/Conditional Statements - LAB/EvenOrOdd/EvenOrOdd/bin/Debug/net5.0/EvenOrOdd.pdb
+/Users/asenkocev/Desktop/SoftUni C#/Basics/Conditional Statements - LAB/EvenOrOdd/EvenOrOdd/obj/Debug/net5.0/EvenOrOdd.csproj.AssemblyReference.cache
+/Users/asenkocev/Desktop/SoftUni C#/Basics/Conditional Statements - LAB/EvenOrOdd/EvenOrOdd/obj/Debug/net5.0/EvenOrOdd.GeneratedMSBuildEditorConfig.editorconfig
+/Users/asenkocev/Desktop/SoftUni C#/Basics/Conditional Statements - LAB/EvenOrOdd/EvenOrOdd/obj/Debug/net5.0/EvenOrOdd.AssemblyInfoInputs.cache
+/Users/asenkocev/Desktop/SoftUni C#/Basics/Conditional Statements - LAB/EvenOrOdd/EvenOrOdd/obj/Debug/net5.0/EvenOrOdd.AssemblyInfo.cs
+/Users/asenkocev/Desktop/SoftUni C#/Basics/Conditional Statements - LAB/EvenOrOdd/EvenOrOdd/obj/Debug/net5.0/EvenOrOdd.csproj.CoreCompileInputs.cache
+/Users/asenkocev/Desktop/SoftUni C#/Basics/Conditional Statements - LAB/EvenOrOdd/EvenOrOdd/obj/Debug/net5.0/EvenOrOdd.dll
+/Users/asenkocev/Desktop/SoftUni C#/Basics/Conditional Statements - LAB/EvenOrOdd/EvenOrOdd/obj/Debug/net5.0/ref/EvenOrOdd.dll
+/Users/asenkocev/Desktop/SoftUni C#/Basics/Conditional Statements - LAB/EvenOrOdd/EvenOrOdd/obj/Debug/net5.0/EvenOrOdd.pdb
+/Users/asenkocev/Desktop/SoftUni C#/Basics/Conditional Statements - LAB/EvenOrOdd/EvenOrOdd/obj/Debug/net5.0/EvenOrOdd.genruntimeconfig.cache

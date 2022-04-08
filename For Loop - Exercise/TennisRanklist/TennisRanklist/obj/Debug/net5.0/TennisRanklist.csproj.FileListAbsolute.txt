@@ -1,0 +1,15 @@
+/Users/asenkocev/Desktop/SoftUni C#/Basics/For Loop - Exercise/TennisRanklist/TennisRanklist/obj/Debug/net5.0/TennisRanklist.csproj.AssemblyReference.cache
+/Users/asenkocev/Desktop/SoftUni C#/Basics/For Loop - Exercise/TennisRanklist/TennisRanklist/obj/Debug/net5.0/TennisRanklist.GeneratedMSBuildEditorConfig.editorconfig
+/Users/asenkocev/Desktop/SoftUni C#/Basics/For Loop - Exercise/TennisRanklist/TennisRanklist/obj/Debug/net5.0/TennisRanklist.AssemblyInfoInputs.cache
+/Users/asenkocev/Desktop/SoftUni C#/Basics/For Loop - Exercise/TennisRanklist/TennisRanklist/obj/Debug/net5.0/TennisRanklist.AssemblyInfo.cs
+/Users/asenkocev/Desktop/SoftUni C#/Basics/For Loop - Exercise/TennisRanklist/TennisRanklist/obj/Debug/net5.0/TennisRanklist.csproj.CoreCompileInputs.cache
+/Users/asenkocev/Desktop/SoftUni C#/Basics/For Loop - Exercise/TennisRanklist/TennisRanklist/bin/Debug/net5.0/TennisRanklist.deps.json
+/Users/asenkocev/Desktop/SoftUni C#/Basics/For Loop - Exercise/TennisRanklist/TennisRanklist/bin/Debug/net5.0/TennisRanklist.runtimeconfig.json
+/Users/asenkocev/Desktop/SoftUni C#/Basics/For Loop - Exercise/TennisRanklist/TennisRanklist/bin/Debug/net5.0/TennisRanklist.runtimeconfig.dev.json
+/Users/asenkocev/Desktop/SoftUni C#/Basics/For Loop - Exercise/TennisRanklist/TennisRanklist/bin/Debug/net5.0/TennisRanklist.dll
+/Users/asenkocev/Desktop/SoftUni C#/Basics/For Loop - Exercise/TennisRanklist/TennisRanklist/bin/Debug/net5.0/ref/TennisRanklist.dll
+/Users/asenkocev/Desktop/SoftUni C#/Basics/For Loop - Exercise/TennisRanklist/TennisRanklist/bin/Debug/net5.0/TennisRanklist.pdb
+/Users/asenkocev/Desktop/SoftUni C#/Basics/For Loop - Exercise/TennisRanklist/TennisRanklist/obj/Debug/net5.0/TennisRanklist.dll
+/Users/asenkocev/Desktop/SoftUni C#/Basics/For Loop - Exercise/TennisRanklist/TennisRanklist/obj/Debug/net5.0/ref/TennisRanklist.dll
+/Users/asenkocev/Desktop/SoftUni C#/Basics/For Loop - Exercise/TennisRanklist/TennisRanklist/obj/Debug/net5.0/TennisRanklist.pdb
+/Users/asenkocev/Desktop/SoftUni C#/Basics/For Loop - Exercise/TennisRanklist/TennisRanklist/obj/Debug/net5.0/TennisRanklist.genruntimeconfig.cache

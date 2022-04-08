@@ -1,0 +1,15 @@
+/Users/asenkocev/Desktop/SoftUni C#/Basics/Conditional Statements Advanced - LAB/NumberInRange/NumberInRange/obj/Debug/net5.0/NumberInRange.csproj.AssemblyReference.cache
+/Users/asenkocev/Desktop/SoftUni C#/Basics/Conditional Statements Advanced - LAB/NumberInRange/NumberInRange/obj/Debug/net5.0/NumberInRange.GeneratedMSBuildEditorConfig.editorconfig
+/Users/asenkocev/Desktop/SoftUni C#/Basics/Conditional Statements Advanced - LAB/NumberInRange/NumberInRange/obj/Debug/net5.0/NumberInRange.AssemblyInfoInputs.cache
+/Users/asenkocev/Desktop/SoftUni C#/Basics/Conditional Statements Advanced - LAB/NumberInRange/NumberInRange/obj/Debug/net5.0/NumberInRange.AssemblyInfo.cs
+/Users/asenkocev/Desktop/SoftUni C#/Basics/Conditional Statements Advanced - LAB/NumberInRange/NumberInRange/obj/Debug/net5.0/NumberInRange.csproj.CoreCompileInputs.cache
+/Users/asenkocev/Desktop/SoftUni C#/Basics/Conditional Statements Advanced - LAB/NumberInRange/NumberInRange/bin/Debug/net5.0/NumberInRange.deps.json
+/Users/asenkocev/Desktop/SoftUni C#/Basics/Conditional Statements Advanced - LAB/NumberInRange/NumberInRange/bin/Debug/net5.0/NumberInRange.runtimeconfig.json
+/Users/asenkocev/Desktop/SoftUni C#/Basics/Conditional Statements Advanced - LAB/NumberInRange/NumberInRange/bin/Debug/net5.0/NumberInRange.runtimeconfig.dev.json
+/Users/asenkocev/Desktop/SoftUni C#/Basics/Conditional Statements Advanced - LAB/NumberInRange/NumberInRange/bin/Debug/net5.0/NumberInRange.dll
+/Users/asenkocev/Desktop/SoftUni C#/Basics/Conditional Statements Advanced - LAB/NumberInRange/NumberInRange/bin/Debug/net5.0/ref/NumberInRange.dll
+/Users/asenkocev/Desktop/SoftUni C#/Basics/Conditional Statements Advanced - LAB/NumberInRange/NumberInRange/bin/Debug/net5.0/NumberInRange.pdb
+/Users/asenkocev/Desktop/SoftUni C#/Basics/Conditional Statements Advanced - LAB/NumberInRange/NumberInRange/obj/Debug/net5.0/NumberInRange.dll
+/Users/asenkocev/Desktop/SoftUni C#/Basics/Conditional Statements Advanced - LAB/NumberInRange/NumberInRange/obj/Debug/net5.0/ref/NumberInRange.dll
+/Users/asenkocev/Desktop/SoftUni C#/Basics/Conditional Statements Advanced - LAB/NumberInRange/NumberInRange/obj/Debug/net5.0/NumberInRange.pdb
+/Users/asenkocev/Desktop/SoftUni C#/Basics/Conditional Statements Advanced - LAB/NumberInRange/NumberInRange/obj/Debug/net5.0/NumberInRange.genruntimeconfig.cache

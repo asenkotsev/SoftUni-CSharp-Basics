@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{E9725A8B-CA00-4051-963A-56FF33E81632}|Default">
+  <MonoDevelop.Ide.ItemProperties.OnTimeForExam PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="OnTimeForExam/Program.cs">
+    <Files>
+      <File FileName="OnTimeForExam/Program.cs" Line="22" Column="14" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="OnTimeForExam" expanded="True">
+            <Node name="OnTimeForExam" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

@@ -1,0 +1,15 @@
+/Users/asenkocev/Desktop/SoftUni C#/Basics/First steps/Nums1To10/Nums1To10/bin/Debug/net5.0/Nums1To10.deps.json
+/Users/asenkocev/Desktop/SoftUni C#/Basics/First steps/Nums1To10/Nums1To10/bin/Debug/net5.0/Nums1To10.runtimeconfig.json
+/Users/asenkocev/Desktop/SoftUni C#/Basics/First steps/Nums1To10/Nums1To10/bin/Debug/net5.0/Nums1To10.runtimeconfig.dev.json
+/Users/asenkocev/Desktop/SoftUni C#/Basics/First steps/Nums1To10/Nums1To10/bin/Debug/net5.0/Nums1To10.dll
+/Users/asenkocev/Desktop/SoftUni C#/Basics/First steps/Nums1To10/Nums1To10/bin/Debug/net5.0/ref/Nums1To10.dll
+/Users/asenkocev/Desktop/SoftUni C#/Basics/First steps/Nums1To10/Nums1To10/bin/Debug/net5.0/Nums1To10.pdb
+/Users/asenkocev/Desktop/SoftUni C#/Basics/First steps/Nums1To10/Nums1To10/obj/Debug/net5.0/Nums1To10.csproj.AssemblyReference.cache
+/Users/asenkocev/Desktop/SoftUni C#/Basics/First steps/Nums1To10/Nums1To10/obj/Debug/net5.0/Nums1To10.GeneratedMSBuildEditorConfig.editorconfig
+/Users/asenkocev/Desktop/SoftUni C#/Basics/First steps/Nums1To10/Nums1To10/obj/Debug/net5.0/Nums1To10.AssemblyInfoInputs.cache
+/Users/asenkocev/Desktop/SoftUni C#/Basics/First steps/Nums1To10/Nums1To10/obj/Debug/net5.0/Nums1To10.AssemblyInfo.cs
+/Users/asenkocev/Desktop/SoftUni C#/Basics/First steps/Nums1To10/Nums1To10/obj/Debug/net5.0/Nums1To10.csproj.CoreCompileInputs.cache
+/Users/asenkocev/Desktop/SoftUni C#/Basics/First steps/Nums1To10/Nums1To10/obj/Debug/net5.0/Nums1To10.dll
+/Users/asenkocev/Desktop/SoftUni C#/Basics/First steps/Nums1To10/Nums1To10/obj/Debug/net5.0/ref/Nums1To10.dll
+/Users/asenkocev/Desktop/SoftUni C#/Basics/First steps/Nums1To10/Nums1To10/obj/Debug/net5.0/Nums1To10.pdb
+/Users/asenkocev/Desktop/SoftUni C#/Basics/First steps/Nums1To10/Nums1To10/obj/Debug/net5.0/Nums1To10.genruntimeconfig.cache

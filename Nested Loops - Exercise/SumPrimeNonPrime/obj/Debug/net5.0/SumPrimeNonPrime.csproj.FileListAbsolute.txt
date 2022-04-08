@@ -1,0 +1,15 @@
+/Users/asenkocev/Desktop/SoftUni C#/Basics/Nested Loops - Exercise/SumPrimeNonPrime/bin/Debug/net5.0/SumPrimeNonPrime.deps.json
+/Users/asenkocev/Desktop/SoftUni C#/Basics/Nested Loops - Exercise/SumPrimeNonPrime/bin/Debug/net5.0/SumPrimeNonPrime.runtimeconfig.json
+/Users/asenkocev/Desktop/SoftUni C#/Basics/Nested Loops - Exercise/SumPrimeNonPrime/bin/Debug/net5.0/SumPrimeNonPrime.runtimeconfig.dev.json
+/Users/asenkocev/Desktop/SoftUni C#/Basics/Nested Loops - Exercise/SumPrimeNonPrime/bin/Debug/net5.0/SumPrimeNonPrime.dll
+/Users/asenkocev/Desktop/SoftUni C#/Basics/Nested Loops - Exercise/SumPrimeNonPrime/bin/Debug/net5.0/ref/SumPrimeNonPrime.dll
+/Users/asenkocev/Desktop/SoftUni C#/Basics/Nested Loops - Exercise/SumPrimeNonPrime/bin/Debug/net5.0/SumPrimeNonPrime.pdb
+/Users/asenkocev/Desktop/SoftUni C#/Basics/Nested Loops - Exercise/SumPrimeNonPrime/obj/Debug/net5.0/SumPrimeNonPrime.csproj.AssemblyReference.cache
+/Users/asenkocev/Desktop/SoftUni C#/Basics/Nested Loops - Exercise/SumPrimeNonPrime/obj/Debug/net5.0/SumPrimeNonPrime.GeneratedMSBuildEditorConfig.editorconfig
+/Users/asenkocev/Desktop/SoftUni C#/Basics/Nested Loops - Exercise/SumPrimeNonPrime/obj/Debug/net5.0/SumPrimeNonPrime.AssemblyInfoInputs.cache
+/Users/asenkocev/Desktop/SoftUni C#/Basics/Nested Loops - Exercise/SumPrimeNonPrime/obj/Debug/net5.0/SumPrimeNonPrime.AssemblyInfo.cs
+/Users/asenkocev/Desktop/SoftUni C#/Basics/Nested Loops - Exercise/SumPrimeNonPrime/obj/Debug/net5.0/SumPrimeNonPrime.csproj.CoreCompileInputs.cache
+/Users/asenkocev/Desktop/SoftUni C#/Basics/Nested Loops - Exercise/SumPrimeNonPrime/obj/Debug/net5.0/SumPrimeNonPrime.dll
+/Users/asenkocev/Desktop/SoftUni C#/Basics/Nested Loops - Exercise/SumPrimeNonPrime/obj/Debug/net5.0/ref/SumPrimeNonPrime.dll
+/Users/asenkocev/Desktop/SoftUni C#/Basics/Nested Loops - Exercise/SumPrimeNonPrime/obj/Debug/net5.0/SumPrimeNonPrime.pdb
+/Users/asenkocev/Desktop/SoftUni C#/Basics/Nested Loops - Exercise/SumPrimeNonPrime/obj/Debug/net5.0/SumPrimeNonPrime.genruntimeconfig.cache

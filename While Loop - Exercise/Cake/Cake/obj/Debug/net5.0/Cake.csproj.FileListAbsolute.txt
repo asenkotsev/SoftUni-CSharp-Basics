@@ -1,0 +1,15 @@
+/Users/asenkocev/Desktop/SoftUni C#/Basics/While Loop - Exercise/Cake/Cake/bin/Debug/net5.0/Cake.deps.json
+/Users/asenkocev/Desktop/SoftUni C#/Basics/While Loop - Exercise/Cake/Cake/bin/Debug/net5.0/Cake.runtimeconfig.json
+/Users/asenkocev/Desktop/SoftUni C#/Basics/While Loop - Exercise/Cake/Cake/bin/Debug/net5.0/Cake.runtimeconfig.dev.json
+/Users/asenkocev/Desktop/SoftUni C#/Basics/While Loop - Exercise/Cake/Cake/bin/Debug/net5.0/Cake.dll
+/Users/asenkocev/Desktop/SoftUni C#/Basics/While Loop - Exercise/Cake/Cake/bin/Debug/net5.0/ref/Cake.dll
+/Users/asenkocev/Desktop/SoftUni C#/Basics/While Loop - Exercise/Cake/Cake/bin/Debug/net5.0/Cake.pdb
+/Users/asenkocev/Desktop/SoftUni C#/Basics/While Loop - Exercise/Cake/Cake/obj/Debug/net5.0/Cake.csproj.AssemblyReference.cache
+/Users/asenkocev/Desktop/SoftUni C#/Basics/While Loop - Exercise/Cake/Cake/obj/Debug/net5.0/Cake.GeneratedMSBuildEditorConfig.editorconfig
+/Users/asenkocev/Desktop/SoftUni C#/Basics/While Loop - Exercise/Cake/Cake/obj/Debug/net5.0/Cake.AssemblyInfoInputs.cache
+/Users/asenkocev/Desktop/SoftUni C#/Basics/While Loop - Exercise/Cake/Cake/obj/Debug/net5.0/Cake.AssemblyInfo.cs
+/Users/asenkocev/Desktop/SoftUni C#/Basics/While Loop - Exercise/Cake/Cake/obj/Debug/net5.0/Cake.csproj.CoreCompileInputs.cache
+/Users/asenkocev/Desktop/SoftUni C#/Basics/While Loop - Exercise/Cake/Cake/obj/Debug/net5.0/Cake.dll
+/Users/asenkocev/Desktop/SoftUni C#/Basics/While Loop - Exercise/Cake/Cake/obj/Debug/net5.0/ref/Cake.dll
+/Users/asenkocev/Desktop/SoftUni C#/Basics/While Loop - Exercise/Cake/Cake/obj/Debug/net5.0/Cake.pdb
+/Users/asenkocev/Desktop/SoftUni C#/Basics/While Loop - Exercise/Cake/Cake/obj/Debug/net5.0/Cake.genruntimeconfig.cache

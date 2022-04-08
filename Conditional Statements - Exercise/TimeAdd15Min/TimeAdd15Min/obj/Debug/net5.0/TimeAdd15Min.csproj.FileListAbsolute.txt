@@ -1,0 +1,15 @@
+/Users/asenkocev/Desktop/SoftUni C#/Basics/Conditional Statements - Exercise/TimeAdd15Min/TimeAdd15Min/bin/Debug/net5.0/TimeAdd15Min.deps.json
+/Users/asenkocev/Desktop/SoftUni C#/Basics/Conditional Statements - Exercise/TimeAdd15Min/TimeAdd15Min/bin/Debug/net5.0/TimeAdd15Min.runtimeconfig.json
+/Users/asenkocev/Desktop/SoftUni C#/Basics/Conditional Statements - Exercise/TimeAdd15Min/TimeAdd15Min/bin/Debug/net5.0/TimeAdd15Min.runtimeconfig.dev.json
+/Users/asenkocev/Desktop/SoftUni C#/Basics/Conditional Statements - Exercise/TimeAdd15Min/TimeAdd15Min/bin/Debug/net5.0/TimeAdd15Min.dll
+/Users/asenkocev/Desktop/SoftUni C#/Basics/Conditional Statements - Exercise/TimeAdd15Min/TimeAdd15Min/bin/Debug/net5.0/ref/TimeAdd15Min.dll
+/Users/asenkocev/Desktop/SoftUni C#/Basics/Conditional Statements - Exercise/TimeAdd15Min/TimeAdd15Min/bin/Debug/net5.0/TimeAdd15Min.pdb
+/Users/asenkocev/Desktop/SoftUni C#/Basics/Conditional Statements - Exercise/TimeAdd15Min/TimeAdd15Min/obj/Debug/net5.0/TimeAdd15Min.csproj.AssemblyReference.cache
+/Users/asenkocev/Desktop/SoftUni C#/Basics/Conditional Statements - Exercise/TimeAdd15Min/TimeAdd15Min/obj/Debug/net5.0/TimeAdd15Min.GeneratedMSBuildEditorConfig.editorconfig
+/Users/asenkocev/Desktop/SoftUni C#/Basics/Conditional Statements - Exercise/TimeAdd15Min/TimeAdd15Min/obj/Debug/net5.0/TimeAdd15Min.AssemblyInfoInputs.cache
+/Users/asenkocev/Desktop/SoftUni C#/Basics/Conditional Statements - Exercise/TimeAdd15Min/TimeAdd15Min/obj/Debug/net5.0/TimeAdd15Min.AssemblyInfo.cs
+/Users/asenkocev/Desktop/SoftUni C#/Basics/Conditional Statements - Exercise/TimeAdd15Min/TimeAdd15Min/obj/Debug/net5.0/TimeAdd15Min.csproj.CoreCompileInputs.cache
+/Users/asenkocev/Desktop/SoftUni C#/Basics/Conditional Statements - Exercise/TimeAdd15Min/TimeAdd15Min/obj/Debug/net5.0/TimeAdd15Min.dll
+/Users/asenkocev/Desktop/SoftUni C#/Basics/Conditional Statements - Exercise/TimeAdd15Min/TimeAdd15Min/obj/Debug/net5.0/ref/TimeAdd15Min.dll
+/Users/asenkocev/Desktop/SoftUni C#/Basics/Conditional Statements - Exercise/TimeAdd15Min/TimeAdd15Min/obj/Debug/net5.0/TimeAdd15Min.pdb
+/Users/asenkocev/Desktop/SoftUni C#/Basics/Conditional Statements - Exercise/TimeAdd15Min/TimeAdd15Min/obj/Debug/net5.0/TimeAdd15Min.genruntimeconfig.cache

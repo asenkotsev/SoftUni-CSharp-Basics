@@ -1,0 +1,15 @@
+/Users/asenkocev/Desktop/SoftUni C#/Basics/First steps/ReactangleArea/ReactangleArea/bin/Debug/net5.0/ReactangleArea.deps.json
+/Users/asenkocev/Desktop/SoftUni C#/Basics/First steps/ReactangleArea/ReactangleArea/bin/Debug/net5.0/ReactangleArea.runtimeconfig.json
+/Users/asenkocev/Desktop/SoftUni C#/Basics/First steps/ReactangleArea/ReactangleArea/bin/Debug/net5.0/ReactangleArea.runtimeconfig.dev.json
+/Users/asenkocev/Desktop/SoftUni C#/Basics/First steps/ReactangleArea/ReactangleArea/bin/Debug/net5.0/ReactangleArea.dll
+/Users/asenkocev/Desktop/SoftUni C#/Basics/First steps/ReactangleArea/ReactangleArea/bin/Debug/net5.0/ref/ReactangleArea.dll
+/Users/asenkocev/Desktop/SoftUni C#/Basics/First steps/ReactangleArea/ReactangleArea/bin/Debug/net5.0/ReactangleArea.pdb
+/Users/asenkocev/Desktop/SoftUni C#/Basics/First steps/ReactangleArea/ReactangleArea/obj/Debug/net5.0/ReactangleArea.csproj.AssemblyReference.cache
+/Users/asenkocev/Desktop/SoftUni C#/Basics/First steps/ReactangleArea/ReactangleArea/obj/Debug/net5.0/ReactangleArea.GeneratedMSBuildEditorConfig.editorconfig
+/Users/asenkocev/Desktop/SoftUni C#/Basics/First steps/ReactangleArea/ReactangleArea/obj/Debug/net5.0/ReactangleArea.AssemblyInfoInputs.cache
+/Users/asenkocev/Desktop/SoftUni C#/Basics/First steps/ReactangleArea/ReactangleArea/obj/Debug/net5.0/ReactangleArea.AssemblyInfo.cs
+/Users/asenkocev/Desktop/SoftUni C#/Basics/First steps/ReactangleArea/ReactangleArea/obj/Debug/net5.0/ReactangleArea.csproj.CoreCompileInputs.cache
+/Users/asenkocev/Desktop/SoftUni C#/Basics/First steps/ReactangleArea/ReactangleArea/obj/Debug/net5.0/ReactangleArea.dll
+/Users/asenkocev/Desktop/SoftUni C#/Basics/First steps/ReactangleArea/ReactangleArea/obj/Debug/net5.0/ref/ReactangleArea.dll
+/Users/asenkocev/Desktop/SoftUni C#/Basics/First steps/ReactangleArea/ReactangleArea/obj/Debug/net5.0/ReactangleArea.pdb
+/Users/asenkocev/Desktop/SoftUni C#/Basics/First steps/ReactangleArea/ReactangleArea/obj/Debug/net5.0/ReactangleArea.genruntimeconfig.cache

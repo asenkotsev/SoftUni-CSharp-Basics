@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.810.21
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FruitShop", "FruitShop\FruitShop.csproj", "{AAB946DC-2A63-4DA3-898C-EB67031AE17C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AAB946DC-2A63-4DA3-898C-EB67031AE17C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AAB946DC-2A63-4DA3-898C-EB67031AE17C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AAB946DC-2A63-4DA3-898C-EB67031AE17C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AAB946DC-2A63-4DA3-898C-EB67031AE17C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1851D4C6-0F7E-449D-B647-3205DF6163AE}
+	EndGlobalSection
+EndGlobal

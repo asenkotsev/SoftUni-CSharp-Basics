@@ -1,0 +1,15 @@
+/Users/asenkocev/Desktop/SoftUni C#/Basics/First steps - Exercise/DepositCalculator/DepositCalculator/obj/Debug/net5.0/DepositCalculator.csproj.AssemblyReference.cache
+/Users/asenkocev/Desktop/SoftUni C#/Basics/First steps - Exercise/DepositCalculator/DepositCalculator/obj/Debug/net5.0/DepositCalculator.GeneratedMSBuildEditorConfig.editorconfig
+/Users/asenkocev/Desktop/SoftUni C#/Basics/First steps - Exercise/DepositCalculator/DepositCalculator/obj/Debug/net5.0/DepositCalculator.AssemblyInfoInputs.cache
+/Users/asenkocev/Desktop/SoftUni C#/Basics/First steps - Exercise/DepositCalculator/DepositCalculator/obj/Debug/net5.0/DepositCalculator.AssemblyInfo.cs
+/Users/asenkocev/Desktop/SoftUni C#/Basics/First steps - Exercise/DepositCalculator/DepositCalculator/obj/Debug/net5.0/DepositCalculator.csproj.CoreCompileInputs.cache
+/Users/asenkocev/Desktop/SoftUni C#/Basics/First steps - Exercise/DepositCalculator/DepositCalculator/bin/Debug/net5.0/DepositCalculator.deps.json
+/Users/asenkocev/Desktop/SoftUni C#/Basics/First steps - Exercise/DepositCalculator/DepositCalculator/bin/Debug/net5.0/DepositCalculator.runtimeconfig.json
+/Users/asenkocev/Desktop/SoftUni C#/Basics/First steps - Exercise/DepositCalculator/DepositCalculator/bin/Debug/net5.0/DepositCalculator.runtimeconfig.dev.json
+/Users/asenkocev/Desktop/SoftUni C#/Basics/First steps - Exercise/DepositCalculator/DepositCalculator/bin/Debug/net5.0/DepositCalculator.dll
+/Users/asenkocev/Desktop/SoftUni C#/Basics/First steps - Exercise/DepositCalculator/DepositCalculator/bin/Debug/net5.0/ref/DepositCalculator.dll
+/Users/asenkocev/Desktop/SoftUni C#/Basics/First steps - Exercise/DepositCalculator/DepositCalculator/bin/Debug/net5.0/DepositCalculator.pdb
+/Users/asenkocev/Desktop/SoftUni C#/Basics/First steps - Exercise/DepositCalculator/DepositCalculator/obj/Debug/net5.0/DepositCalculator.dll
+/Users/asenkocev/Desktop/SoftUni C#/Basics/First steps - Exercise/DepositCalculator/DepositCalculator/obj/Debug/net5.0/ref/DepositCalculator.dll
+/Users/asenkocev/Desktop/SoftUni C#/Basics/First steps - Exercise/DepositCalculator/DepositCalculator/obj/Debug/net5.0/DepositCalculator.pdb
+/Users/asenkocev/Desktop/SoftUni C#/Basics/First steps - Exercise/DepositCalculator/DepositCalculator/obj/Debug/net5.0/DepositCalculator.genruntimeconfig.cache

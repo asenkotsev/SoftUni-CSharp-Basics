@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{F860D5E4-1856-4E1A-9F90-63CD84FCA7CE}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ExamPreparation/Program.cs">
+    <Files>
+      <File FileName="ExamPreparation/Program.cs" Line="33" Column="14" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ExamPreparation" expanded="True">
+            <Node name="ExamPreparation" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.ExamPreparation PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

@@ -1,0 +1,15 @@
+/Users/asenkocev/Desktop/SoftUni C#/Basics/Conditional Statements - Exercise/GodzillaVsKong/GodzillaVsKong/bin/Debug/net5.0/GodzillaVsKong.deps.json
+/Users/asenkocev/Desktop/SoftUni C#/Basics/Conditional Statements - Exercise/GodzillaVsKong/GodzillaVsKong/bin/Debug/net5.0/GodzillaVsKong.runtimeconfig.json
+/Users/asenkocev/Desktop/SoftUni C#/Basics/Conditional Statements - Exercise/GodzillaVsKong/GodzillaVsKong/bin/Debug/net5.0/GodzillaVsKong.runtimeconfig.dev.json
+/Users/asenkocev/Desktop/SoftUni C#/Basics/Conditional Statements - Exercise/GodzillaVsKong/GodzillaVsKong/bin/Debug/net5.0/GodzillaVsKong.dll
+/Users/asenkocev/Desktop/SoftUni C#/Basics/Conditional Statements - Exercise/GodzillaVsKong/GodzillaVsKong/bin/Debug/net5.0/ref/GodzillaVsKong.dll
+/Users/asenkocev/Desktop/SoftUni C#/Basics/Conditional Statements - Exercise/GodzillaVsKong/GodzillaVsKong/bin/Debug/net5.0/GodzillaVsKong.pdb
+/Users/asenkocev/Desktop/SoftUni C#/Basics/Conditional Statements - Exercise/GodzillaVsKong/GodzillaVsKong/obj/Debug/net5.0/GodzillaVsKong.csproj.AssemblyReference.cache
+/Users/asenkocev/Desktop/SoftUni C#/Basics/Conditional Statements - Exercise/GodzillaVsKong/GodzillaVsKong/obj/Debug/net5.0/GodzillaVsKong.GeneratedMSBuildEditorConfig.editorconfig
+/Users/asenkocev/Desktop/SoftUni C#/Basics/Conditional Statements - Exercise/GodzillaVsKong/GodzillaVsKong/obj/Debug/net5.0/GodzillaVsKong.AssemblyInfoInputs.cache
+/Users/asenkocev/Desktop/SoftUni C#/Basics/Conditional Statements - Exercise/GodzillaVsKong/GodzillaVsKong/obj/Debug/net5.0/GodzillaVsKong.AssemblyInfo.cs
+/Users/asenkocev/Desktop/SoftUni C#/Basics/Conditional Statements - Exercise/GodzillaVsKong/GodzillaVsKong/obj/Debug/net5.0/GodzillaVsKong.csproj.CoreCompileInputs.cache
+/Users/asenkocev/Desktop/SoftUni C#/Basics/Conditional Statements - Exercise/GodzillaVsKong/GodzillaVsKong/obj/Debug/net5.0/GodzillaVsKong.dll
+/Users/asenkocev/Desktop/SoftUni C#/Basics/Conditional Statements - Exercise/GodzillaVsKong/GodzillaVsKong/obj/Debug/net5.0/ref/GodzillaVsKong.dll
+/Users/asenkocev/Desktop/SoftUni C#/Basics/Conditional Statements - Exercise/GodzillaVsKong/GodzillaVsKong/obj/Debug/net5.0/GodzillaVsKong.pdb
+/Users/asenkocev/Desktop/SoftUni C#/Basics/Conditional Statements - Exercise/GodzillaVsKong/GodzillaVsKong/obj/Debug/net5.0/GodzillaVsKong.genruntimeconfig.cache

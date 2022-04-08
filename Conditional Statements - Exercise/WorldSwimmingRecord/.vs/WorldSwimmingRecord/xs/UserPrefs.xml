@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{D0C13371-950C-4503-BFB7-FAB28CE6D132}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="WorldSwimmingRecord/Program.cs">
+    <Files>
+      <File FileName="WorldSwimmingRecord/Program.cs" Line="21" Column="9" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="WorldSwimmingRecord" expanded="True">
+            <Node name="WorldSwimmingRecord" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.WorldSwimmingRecord PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

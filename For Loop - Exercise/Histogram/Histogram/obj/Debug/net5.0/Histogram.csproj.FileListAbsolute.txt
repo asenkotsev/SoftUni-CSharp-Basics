@@ -1,0 +1,15 @@
+/Users/asenkocev/Desktop/SoftUni C#/Basics/For Loop - Exercise/Histogram/Histogram/bin/Debug/net5.0/Histogram.deps.json
+/Users/asenkocev/Desktop/SoftUni C#/Basics/For Loop - Exercise/Histogram/Histogram/bin/Debug/net5.0/Histogram.runtimeconfig.json
+/Users/asenkocev/Desktop/SoftUni C#/Basics/For Loop - Exercise/Histogram/Histogram/bin/Debug/net5.0/Histogram.runtimeconfig.dev.json
+/Users/asenkocev/Desktop/SoftUni C#/Basics/For Loop - Exercise/Histogram/Histogram/bin/Debug/net5.0/Histogram.dll
+/Users/asenkocev/Desktop/SoftUni C#/Basics/For Loop - Exercise/Histogram/Histogram/bin/Debug/net5.0/ref/Histogram.dll
+/Users/asenkocev/Desktop/SoftUni C#/Basics/For Loop - Exercise/Histogram/Histogram/bin/Debug/net5.0/Histogram.pdb
+/Users/asenkocev/Desktop/SoftUni C#/Basics/For Loop - Exercise/Histogram/Histogram/obj/Debug/net5.0/Histogram.csproj.AssemblyReference.cache
+/Users/asenkocev/Desktop/SoftUni C#/Basics/For Loop - Exercise/Histogram/Histogram/obj/Debug/net5.0/Histogram.GeneratedMSBuildEditorConfig.editorconfig
+/Users/asenkocev/Desktop/SoftUni C#/Basics/For Loop - Exercise/Histogram/Histogram/obj/Debug/net5.0/Histogram.AssemblyInfoInputs.cache
+/Users/asenkocev/Desktop/SoftUni C#/Basics/For Loop - Exercise/Histogram/Histogram/obj/Debug/net5.0/Histogram.AssemblyInfo.cs
+/Users/asenkocev/Desktop/SoftUni C#/Basics/For Loop - Exercise/Histogram/Histogram/obj/Debug/net5.0/Histogram.csproj.CoreCompileInputs.cache
+/Users/asenkocev/Desktop/SoftUni C#/Basics/For Loop - Exercise/Histogram/Histogram/obj/Debug/net5.0/Histogram.dll
+/Users/asenkocev/Desktop/SoftUni C#/Basics/For Loop - Exercise/Histogram/Histogram/obj/Debug/net5.0/ref/Histogram.dll
+/Users/asenkocev/Desktop/SoftUni C#/Basics/For Loop - Exercise/Histogram/Histogram/obj/Debug/net5.0/Histogram.pdb
+/Users/asenkocev/Desktop/SoftUni C#/Basics/For Loop - Exercise/Histogram/Histogram/obj/Debug/net5.0/Histogram.genruntimeconfig.cache

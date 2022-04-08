@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.810.21
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NumberPyramid", "NumberPyramid.csproj", "{B81D0789-123D-4096-988D-58079E91D34B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B81D0789-123D-4096-988D-58079E91D34B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B81D0789-123D-4096-988D-58079E91D34B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B81D0789-123D-4096-988D-58079E91D34B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B81D0789-123D-4096-988D-58079E91D34B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2FABB0D7-8531-4CFE-A576-DBA491896B00}
+	EndGlobalSection
+EndGlobal

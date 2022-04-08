@@ -1,0 +1,15 @@
+/Users/asenkocev/Desktop/SoftUni C#/Basics/Nested Loops - Exercise/EqualSumsOddEvenPositions/bin/Debug/net5.0/EqualSumsOddEvenPositions.deps.json
+/Users/asenkocev/Desktop/SoftUni C#/Basics/Nested Loops - Exercise/EqualSumsOddEvenPositions/bin/Debug/net5.0/EqualSumsOddEvenPositions.runtimeconfig.json
+/Users/asenkocev/Desktop/SoftUni C#/Basics/Nested Loops - Exercise/EqualSumsOddEvenPositions/bin/Debug/net5.0/EqualSumsOddEvenPositions.runtimeconfig.dev.json
+/Users/asenkocev/Desktop/SoftUni C#/Basics/Nested Loops - Exercise/EqualSumsOddEvenPositions/bin/Debug/net5.0/EqualSumsOddEvenPositions.dll
+/Users/asenkocev/Desktop/SoftUni C#/Basics/Nested Loops - Exercise/EqualSumsOddEvenPositions/bin/Debug/net5.0/ref/EqualSumsOddEvenPositions.dll
+/Users/asenkocev/Desktop/SoftUni C#/Basics/Nested Loops - Exercise/EqualSumsOddEvenPositions/bin/Debug/net5.0/EqualSumsOddEvenPositions.pdb
+/Users/asenkocev/Desktop/SoftUni C#/Basics/Nested Loops - Exercise/EqualSumsOddEvenPositions/obj/Debug/net5.0/EqualSumsOddEvenPositions.csproj.AssemblyReference.cache
+/Users/asenkocev/Desktop/SoftUni C#/Basics/Nested Loops - Exercise/EqualSumsOddEvenPositions/obj/Debug/net5.0/EqualSumsOddEvenPositions.GeneratedMSBuildEditorConfig.editorconfig
+/Users/asenkocev/Desktop/SoftUni C#/Basics/Nested Loops - Exercise/EqualSumsOddEvenPositions/obj/Debug/net5.0/EqualSumsOddEvenPositions.AssemblyInfoInputs.cache
+/Users/asenkocev/Desktop/SoftUni C#/Basics/Nested Loops - Exercise/EqualSumsOddEvenPositions/obj/Debug/net5.0/EqualSumsOddEvenPositions.AssemblyInfo.cs
+/Users/asenkocev/Desktop/SoftUni C#/Basics/Nested Loops - Exercise/EqualSumsOddEvenPositions/obj/Debug/net5.0/EqualSumsOddEvenPositions.csproj.CoreCompileInputs.cache
+/Users/asenkocev/Desktop/SoftUni C#/Basics/Nested Loops - Exercise/EqualSumsOddEvenPositions/obj/Debug/net5.0/EqualSumsOddEvenPositions.dll
+/Users/asenkocev/Desktop/SoftUni C#/Basics/Nested Loops - Exercise/EqualSumsOddEvenPositions/obj/Debug/net5.0/ref/EqualSumsOddEvenPositions.dll
+/Users/asenkocev/Desktop/SoftUni C#/Basics/Nested Loops - Exercise/EqualSumsOddEvenPositions/obj/Debug/net5.0/EqualSumsOddEvenPositions.pdb
+/Users/asenkocev/Desktop/SoftUni C#/Basics/Nested Loops - Exercise/EqualSumsOddEvenPositions/obj/Debug/net5.0/EqualSumsOddEvenPositions.genruntimeconfig.cache

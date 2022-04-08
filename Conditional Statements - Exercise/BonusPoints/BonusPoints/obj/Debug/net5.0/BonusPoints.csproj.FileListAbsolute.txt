@@ -1,0 +1,15 @@
+/Users/asenkocev/Desktop/SoftUni C#/Basics/Conditional Statements - Exercise/BonusPoints/BonusPoints/bin/Debug/net5.0/BonusPoints.deps.json
+/Users/asenkocev/Desktop/SoftUni C#/Basics/Conditional Statements - Exercise/BonusPoints/BonusPoints/bin/Debug/net5.0/BonusPoints.runtimeconfig.json
+/Users/asenkocev/Desktop/SoftUni C#/Basics/Conditional Statements - Exercise/BonusPoints/BonusPoints/bin/Debug/net5.0/BonusPoints.runtimeconfig.dev.json
+/Users/asenkocev/Desktop/SoftUni C#/Basics/Conditional Statements - Exercise/BonusPoints/BonusPoints/bin/Debug/net5.0/BonusPoints.dll
+/Users/asenkocev/Desktop/SoftUni C#/Basics/Conditional Statements - Exercise/BonusPoints/BonusPoints/bin/Debug/net5.0/ref/BonusPoints.dll
+/Users/asenkocev/Desktop/SoftUni C#/Basics/Conditional Statements - Exercise/BonusPoints/BonusPoints/bin/Debug/net5.0/BonusPoints.pdb
+/Users/asenkocev/Desktop/SoftUni C#/Basics/Conditional Statements - Exercise/BonusPoints/BonusPoints/obj/Debug/net5.0/BonusPoints.csproj.AssemblyReference.cache
+/Users/asenkocev/Desktop/SoftUni C#/Basics/Conditional Statements - Exercise/BonusPoints/BonusPoints/obj/Debug/net5.0/BonusPoints.GeneratedMSBuildEditorConfig.editorconfig
+/Users/asenkocev/Desktop/SoftUni C#/Basics/Conditional Statements - Exercise/BonusPoints/BonusPoints/obj/Debug/net5.0/BonusPoints.AssemblyInfoInputs.cache
+/Users/asenkocev/Desktop/SoftUni C#/Basics/Conditional Statements - Exercise/BonusPoints/BonusPoints/obj/Debug/net5.0/BonusPoints.AssemblyInfo.cs
+/Users/asenkocev/Desktop/SoftUni C#/Basics/Conditional Statements - Exercise/BonusPoints/BonusPoints/obj/Debug/net5.0/BonusPoints.csproj.CoreCompileInputs.cache
+/Users/asenkocev/Desktop/SoftUni C#/Basics/Conditional Statements - Exercise/BonusPoints/BonusPoints/obj/Debug/net5.0/BonusPoints.dll
+/Users/asenkocev/Desktop/SoftUni C#/Basics/Conditional Statements - Exercise/BonusPoints/BonusPoints/obj/Debug/net5.0/ref/BonusPoints.dll
+/Users/asenkocev/Desktop/SoftUni C#/Basics/Conditional Statements - Exercise/BonusPoints/BonusPoints/obj/Debug/net5.0/BonusPoints.pdb
+/Users/asenkocev/Desktop/SoftUni C#/Basics/Conditional Statements - Exercise/BonusPoints/BonusPoints/obj/Debug/net5.0/BonusPoints.genruntimeconfig.cache

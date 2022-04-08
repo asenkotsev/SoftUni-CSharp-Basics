@@ -1,0 +1,15 @@
+/Users/asenkocev/Desktop/SoftUni C#/Basics/Conditional Statements Advanced - LAB/NumberSequence/NumberSequence/bin/Debug/net5.0/NumberSequence.deps.json
+/Users/asenkocev/Desktop/SoftUni C#/Basics/Conditional Statements Advanced - LAB/NumberSequence/NumberSequence/bin/Debug/net5.0/NumberSequence.runtimeconfig.json
+/Users/asenkocev/Desktop/SoftUni C#/Basics/Conditional Statements Advanced - LAB/NumberSequence/NumberSequence/bin/Debug/net5.0/NumberSequence.runtimeconfig.dev.json
+/Users/asenkocev/Desktop/SoftUni C#/Basics/Conditional Statements Advanced - LAB/NumberSequence/NumberSequence/bin/Debug/net5.0/NumberSequence.dll
+/Users/asenkocev/Desktop/SoftUni C#/Basics/Conditional Statements Advanced - LAB/NumberSequence/NumberSequence/bin/Debug/net5.0/ref/NumberSequence.dll
+/Users/asenkocev/Desktop/SoftUni C#/Basics/Conditional Statements Advanced - LAB/NumberSequence/NumberSequence/bin/Debug/net5.0/NumberSequence.pdb
+/Users/asenkocev/Desktop/SoftUni C#/Basics/Conditional Statements Advanced - LAB/NumberSequence/NumberSequence/obj/Debug/net5.0/NumberSequence.csproj.AssemblyReference.cache
+/Users/asenkocev/Desktop/SoftUni C#/Basics/Conditional Statements Advanced - LAB/NumberSequence/NumberSequence/obj/Debug/net5.0/NumberSequence.GeneratedMSBuildEditorConfig.editorconfig
+/Users/asenkocev/Desktop/SoftUni C#/Basics/Conditional Statements Advanced - LAB/NumberSequence/NumberSequence/obj/Debug/net5.0/NumberSequence.AssemblyInfoInputs.cache
+/Users/asenkocev/Desktop/SoftUni C#/Basics/Conditional Statements Advanced - LAB/NumberSequence/NumberSequence/obj/Debug/net5.0/NumberSequence.AssemblyInfo.cs
+/Users/asenkocev/Desktop/SoftUni C#/Basics/Conditional Statements Advanced - LAB/NumberSequence/NumberSequence/obj/Debug/net5.0/NumberSequence.csproj.CoreCompileInputs.cache
+/Users/asenkocev/Desktop/SoftUni C#/Basics/Conditional Statements Advanced - LAB/NumberSequence/NumberSequence/obj/Debug/net5.0/NumberSequence.dll
+/Users/asenkocev/Desktop/SoftUni C#/Basics/Conditional Statements Advanced - LAB/NumberSequence/NumberSequence/obj/Debug/net5.0/ref/NumberSequence.dll
+/Users/asenkocev/Desktop/SoftUni C#/Basics/Conditional Statements Advanced - LAB/NumberSequence/NumberSequence/obj/Debug/net5.0/NumberSequence.pdb
+/Users/asenkocev/Desktop/SoftUni C#/Basics/Conditional Statements Advanced - LAB/NumberSequence/NumberSequence/obj/Debug/net5.0/NumberSequence.genruntimeconfig.cache

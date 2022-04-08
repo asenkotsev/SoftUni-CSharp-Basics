@@ -1,0 +1,15 @@
+/Users/asenkocev/Desktop/SoftUni C#/Basics/First steps/ConcatenateData/ConcatenateData/obj/Debug/net5.0/ConcatenateData.csproj.AssemblyReference.cache
+/Users/asenkocev/Desktop/SoftUni C#/Basics/First steps/ConcatenateData/ConcatenateData/obj/Debug/net5.0/ConcatenateData.GeneratedMSBuildEditorConfig.editorconfig
+/Users/asenkocev/Desktop/SoftUni C#/Basics/First steps/ConcatenateData/ConcatenateData/obj/Debug/net5.0/ConcatenateData.AssemblyInfoInputs.cache
+/Users/asenkocev/Desktop/SoftUni C#/Basics/First steps/ConcatenateData/ConcatenateData/obj/Debug/net5.0/ConcatenateData.AssemblyInfo.cs
+/Users/asenkocev/Desktop/SoftUni C#/Basics/First steps/ConcatenateData/ConcatenateData/obj/Debug/net5.0/ConcatenateData.csproj.CoreCompileInputs.cache
+/Users/asenkocev/Desktop/SoftUni C#/Basics/First steps/ConcatenateData/ConcatenateData/bin/Debug/net5.0/ConcatenateData.deps.json
+/Users/asenkocev/Desktop/SoftUni C#/Basics/First steps/ConcatenateData/ConcatenateData/bin/Debug/net5.0/ConcatenateData.runtimeconfig.json
+/Users/asenkocev/Desktop/SoftUni C#/Basics/First steps/ConcatenateData/ConcatenateData/bin/Debug/net5.0/ConcatenateData.runtimeconfig.dev.json
+/Users/asenkocev/Desktop/SoftUni C#/Basics/First steps/ConcatenateData/ConcatenateData/bin/Debug/net5.0/ConcatenateData.dll
+/Users/asenkocev/Desktop/SoftUni C#/Basics/First steps/ConcatenateData/ConcatenateData/bin/Debug/net5.0/ref/ConcatenateData.dll
+/Users/asenkocev/Desktop/SoftUni C#/Basics/First steps/ConcatenateData/ConcatenateData/bin/Debug/net5.0/ConcatenateData.pdb
+/Users/asenkocev/Desktop/SoftUni C#/Basics/First steps/ConcatenateData/ConcatenateData/obj/Debug/net5.0/ConcatenateData.dll
+/Users/asenkocev/Desktop/SoftUni C#/Basics/First steps/ConcatenateData/ConcatenateData/obj/Debug/net5.0/ref/ConcatenateData.dll
+/Users/asenkocev/Desktop/SoftUni C#/Basics/First steps/ConcatenateData/ConcatenateData/obj/Debug/net5.0/ConcatenateData.pdb
+/Users/asenkocev/Desktop/SoftUni C#/Basics/First steps/ConcatenateData/ConcatenateData/obj/Debug/net5.0/ConcatenateData.genruntimeconfig.cache

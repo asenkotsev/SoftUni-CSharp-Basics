@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{F2EF9D28-4699-46F3-A5D0-4024DEDDD5E6}|Default">
+  <MonoDevelop.Ide.ItemProperties.RadiansToDegrees PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="RadiansToDegrees/Program.cs">
+    <Files>
+      <File FileName="RadiansToDegrees/Program.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="RadiansToDegrees" expanded="True">
+            <Node name="RadiansToDegrees" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

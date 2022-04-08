@@ -1,0 +1,15 @@
+/Users/asenkocev/Desktop/SoftUni C#/Basics/While Loop - Exercise/Coins/Coins/bin/Debug/net5.0/Coins.deps.json
+/Users/asenkocev/Desktop/SoftUni C#/Basics/While Loop - Exercise/Coins/Coins/bin/Debug/net5.0/Coins.runtimeconfig.json
+/Users/asenkocev/Desktop/SoftUni C#/Basics/While Loop - Exercise/Coins/Coins/bin/Debug/net5.0/Coins.runtimeconfig.dev.json
+/Users/asenkocev/Desktop/SoftUni C#/Basics/While Loop - Exercise/Coins/Coins/bin/Debug/net5.0/Coins.dll
+/Users/asenkocev/Desktop/SoftUni C#/Basics/While Loop - Exercise/Coins/Coins/bin/Debug/net5.0/ref/Coins.dll
+/Users/asenkocev/Desktop/SoftUni C#/Basics/While Loop - Exercise/Coins/Coins/bin/Debug/net5.0/Coins.pdb
+/Users/asenkocev/Desktop/SoftUni C#/Basics/While Loop - Exercise/Coins/Coins/obj/Debug/net5.0/Coins.csproj.AssemblyReference.cache
+/Users/asenkocev/Desktop/SoftUni C#/Basics/While Loop - Exercise/Coins/Coins/obj/Debug/net5.0/Coins.GeneratedMSBuildEditorConfig.editorconfig
+/Users/asenkocev/Desktop/SoftUni C#/Basics/While Loop - Exercise/Coins/Coins/obj/Debug/net5.0/Coins.AssemblyInfoInputs.cache
+/Users/asenkocev/Desktop/SoftUni C#/Basics/While Loop - Exercise/Coins/Coins/obj/Debug/net5.0/Coins.AssemblyInfo.cs
+/Users/asenkocev/Desktop/SoftUni C#/Basics/While Loop - Exercise/Coins/Coins/obj/Debug/net5.0/Coins.csproj.CoreCompileInputs.cache
+/Users/asenkocev/Desktop/SoftUni C#/Basics/While Loop - Exercise/Coins/Coins/obj/Debug/net5.0/Coins.dll
+/Users/asenkocev/Desktop/SoftUni C#/Basics/While Loop - Exercise/Coins/Coins/obj/Debug/net5.0/ref/Coins.dll
+/Users/asenkocev/Desktop/SoftUni C#/Basics/While Loop - Exercise/Coins/Coins/obj/Debug/net5.0/Coins.pdb
+/Users/asenkocev/Desktop/SoftUni C#/Basics/While Loop - Exercise/Coins/Coins/obj/Debug/net5.0/Coins.genruntimeconfig.cache

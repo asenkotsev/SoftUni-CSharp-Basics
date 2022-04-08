@@ -1,0 +1,15 @@
+/Users/asenkocev/Desktop/SoftUni C#/Basics/First steps/YardGreening/YardGreening/bin/Debug/net5.0/YardGreening.deps.json
+/Users/asenkocev/Desktop/SoftUni C#/Basics/First steps/YardGreening/YardGreening/bin/Debug/net5.0/YardGreening.runtimeconfig.json
+/Users/asenkocev/Desktop/SoftUni C#/Basics/First steps/YardGreening/YardGreening/bin/Debug/net5.0/YardGreening.runtimeconfig.dev.json
+/Users/asenkocev/Desktop/SoftUni C#/Basics/First steps/YardGreening/YardGreening/bin/Debug/net5.0/YardGreening.dll
+/Users/asenkocev/Desktop/SoftUni C#/Basics/First steps/YardGreening/YardGreening/bin/Debug/net5.0/ref/YardGreening.dll
+/Users/asenkocev/Desktop/SoftUni C#/Basics/First steps/YardGreening/YardGreening/bin/Debug/net5.0/YardGreening.pdb
+/Users/asenkocev/Desktop/SoftUni C#/Basics/First steps/YardGreening/YardGreening/obj/Debug/net5.0/YardGreening.csproj.AssemblyReference.cache
+/Users/asenkocev/Desktop/SoftUni C#/Basics/First steps/YardGreening/YardGreening/obj/Debug/net5.0/YardGreening.GeneratedMSBuildEditorConfig.editorconfig
+/Users/asenkocev/Desktop/SoftUni C#/Basics/First steps/YardGreening/YardGreening/obj/Debug/net5.0/YardGreening.AssemblyInfoInputs.cache
+/Users/asenkocev/Desktop/SoftUni C#/Basics/First steps/YardGreening/YardGreening/obj/Debug/net5.0/YardGreening.AssemblyInfo.cs
+/Users/asenkocev/Desktop/SoftUni C#/Basics/First steps/YardGreening/YardGreening/obj/Debug/net5.0/YardGreening.csproj.CoreCompileInputs.cache
+/Users/asenkocev/Desktop/SoftUni C#/Basics/First steps/YardGreening/YardGreening/obj/Debug/net5.0/YardGreening.dll
+/Users/asenkocev/Desktop/SoftUni C#/Basics/First steps/YardGreening/YardGreening/obj/Debug/net5.0/ref/YardGreening.dll
+/Users/asenkocev/Desktop/SoftUni C#/Basics/First steps/YardGreening/YardGreening/obj/Debug/net5.0/YardGreening.pdb
+/Users/asenkocev/Desktop/SoftUni C#/Basics/First steps/YardGreening/YardGreening/obj/Debug/net5.0/YardGreening.genruntimeconfig.cache

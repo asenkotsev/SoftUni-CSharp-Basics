@@ -1,0 +1,15 @@
+/Users/asenkocev/Desktop/SoftUni C#/Basics/While Loop - LAB/SumNumbers/SumNumbers/bin/Debug/net5.0/SumNumbers.deps.json
+/Users/asenkocev/Desktop/SoftUni C#/Basics/While Loop - LAB/SumNumbers/SumNumbers/bin/Debug/net5.0/SumNumbers.runtimeconfig.json
+/Users/asenkocev/Desktop/SoftUni C#/Basics/While Loop - LAB/SumNumbers/SumNumbers/bin/Debug/net5.0/SumNumbers.runtimeconfig.dev.json
+/Users/asenkocev/Desktop/SoftUni C#/Basics/While Loop - LAB/SumNumbers/SumNumbers/bin/Debug/net5.0/SumNumbers.dll
+/Users/asenkocev/Desktop/SoftUni C#/Basics/While Loop - LAB/SumNumbers/SumNumbers/bin/Debug/net5.0/ref/SumNumbers.dll
+/Users/asenkocev/Desktop/SoftUni C#/Basics/While Loop - LAB/SumNumbers/SumNumbers/bin/Debug/net5.0/SumNumbers.pdb
+/Users/asenkocev/Desktop/SoftUni C#/Basics/While Loop - LAB/SumNumbers/SumNumbers/obj/Debug/net5.0/SumNumbers.csproj.AssemblyReference.cache
+/Users/asenkocev/Desktop/SoftUni C#/Basics/While Loop - LAB/SumNumbers/SumNumbers/obj/Debug/net5.0/SumNumbers.GeneratedMSBuildEditorConfig.editorconfig
+/Users/asenkocev/Desktop/SoftUni C#/Basics/While Loop - LAB/SumNumbers/SumNumbers/obj/Debug/net5.0/SumNumbers.AssemblyInfoInputs.cache
+/Users/asenkocev/Desktop/SoftUni C#/Basics/While Loop - LAB/SumNumbers/SumNumbers/obj/Debug/net5.0/SumNumbers.AssemblyInfo.cs
+/Users/asenkocev/Desktop/SoftUni C#/Basics/While Loop - LAB/SumNumbers/SumNumbers/obj/Debug/net5.0/SumNumbers.csproj.CoreCompileInputs.cache
+/Users/asenkocev/Desktop/SoftUni C#/Basics/While Loop - LAB/SumNumbers/SumNumbers/obj/Debug/net5.0/SumNumbers.dll
+/Users/asenkocev/Desktop/SoftUni C#/Basics/While Loop - LAB/SumNumbers/SumNumbers/obj/Debug/net5.0/ref/SumNumbers.dll
+/Users/asenkocev/Desktop/SoftUni C#/Basics/While Loop - LAB/SumNumbers/SumNumbers/obj/Debug/net5.0/SumNumbers.pdb
+/Users/asenkocev/Desktop/SoftUni C#/Basics/While Loop - LAB/SumNumbers/SumNumbers/obj/Debug/net5.0/SumNumbers.genruntimeconfig.cache

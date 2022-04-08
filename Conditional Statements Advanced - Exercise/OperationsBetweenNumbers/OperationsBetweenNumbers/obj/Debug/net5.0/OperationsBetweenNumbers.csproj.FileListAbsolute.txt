@@ -1,0 +1,15 @@
+/Users/asenkocev/Desktop/SoftUni C#/Basics/Conditional Statements Advanced - Exercise/OperationsBetweenNumbers/OperationsBetweenNumbers/obj/Debug/net5.0/OperationsBetweenNumbers.csproj.AssemblyReference.cache
+/Users/asenkocev/Desktop/SoftUni C#/Basics/Conditional Statements Advanced - Exercise/OperationsBetweenNumbers/OperationsBetweenNumbers/obj/Debug/net5.0/OperationsBetweenNumbers.GeneratedMSBuildEditorConfig.editorconfig
+/Users/asenkocev/Desktop/SoftUni C#/Basics/Conditional Statements Advanced - Exercise/OperationsBetweenNumbers/OperationsBetweenNumbers/obj/Debug/net5.0/OperationsBetweenNumbers.AssemblyInfoInputs.cache
+/Users/asenkocev/Desktop/SoftUni C#/Basics/Conditional Statements Advanced - Exercise/OperationsBetweenNumbers/OperationsBetweenNumbers/obj/Debug/net5.0/OperationsBetweenNumbers.AssemblyInfo.cs
+/Users/asenkocev/Desktop/SoftUni C#/Basics/Conditional Statements Advanced - Exercise/OperationsBetweenNumbers/OperationsBetweenNumbers/obj/Debug/net5.0/OperationsBetweenNumbers.csproj.CoreCompileInputs.cache
+/Users/asenkocev/Desktop/SoftUni C#/Basics/Conditional Statements Advanced - Exercise/OperationsBetweenNumbers/OperationsBetweenNumbers/bin/Debug/net5.0/OperationsBetweenNumbers.deps.json
+/Users/asenkocev/Desktop/SoftUni C#/Basics/Conditional Statements Advanced - Exercise/OperationsBetweenNumbers/OperationsBetweenNumbers/bin/Debug/net5.0/OperationsBetweenNumbers.runtimeconfig.json
+/Users/asenkocev/Desktop/SoftUni C#/Basics/Conditional Statements Advanced - Exercise/OperationsBetweenNumbers/OperationsBetweenNumbers/bin/Debug/net5.0/OperationsBetweenNumbers.runtimeconfig.dev.json
+/Users/asenkocev/Desktop/SoftUni C#/Basics/Conditional Statements Advanced - Exercise/OperationsBetweenNumbers/OperationsBetweenNumbers/bin/Debug/net5.0/OperationsBetweenNumbers.dll
+/Users/asenkocev/Desktop/SoftUni C#/Basics/Conditional Statements Advanced - Exercise/OperationsBetweenNumbers/OperationsBetweenNumbers/bin/Debug/net5.0/ref/OperationsBetweenNumbers.dll
+/Users/asenkocev/Desktop/SoftUni C#/Basics/Conditional Statements Advanced - Exercise/OperationsBetweenNumbers/OperationsBetweenNumbers/bin/Debug/net5.0/OperationsBetweenNumbers.pdb
+/Users/asenkocev/Desktop/SoftUni C#/Basics/Conditional Statements Advanced - Exercise/OperationsBetweenNumbers/OperationsBetweenNumbers/obj/Debug/net5.0/OperationsBetweenNumbers.dll
+/Users/asenkocev/Desktop/SoftUni C#/Basics/Conditional Statements Advanced - Exercise/OperationsBetweenNumbers/OperationsBetweenNumbers/obj/Debug/net5.0/ref/OperationsBetweenNumbers.dll
+/Users/asenkocev/Desktop/SoftUni C#/Basics/Conditional Statements Advanced - Exercise/OperationsBetweenNumbers/OperationsBetweenNumbers/obj/Debug/net5.0/OperationsBetweenNumbers.pdb
+/Users/asenkocev/Desktop/SoftUni C#/Basics/Conditional Statements Advanced - Exercise/OperationsBetweenNumbers/OperationsBetweenNumbers/obj/Debug/net5.0/OperationsBetweenNumbers.genruntimeconfig.cache

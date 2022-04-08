@@ -1,0 +1,15 @@
+/Users/asenkocev/Desktop/SoftUni C#/Basics/While Loop - Exercise/Walking/Walking/bin/Debug/net5.0/Walking.deps.json
+/Users/asenkocev/Desktop/SoftUni C#/Basics/While Loop - Exercise/Walking/Walking/bin/Debug/net5.0/Walking.runtimeconfig.json
+/Users/asenkocev/Desktop/SoftUni C#/Basics/While Loop - Exercise/Walking/Walking/bin/Debug/net5.0/Walking.runtimeconfig.dev.json
+/Users/asenkocev/Desktop/SoftUni C#/Basics/While Loop - Exercise/Walking/Walking/bin/Debug/net5.0/Walking.dll
+/Users/asenkocev/Desktop/SoftUni C#/Basics/While Loop - Exercise/Walking/Walking/bin/Debug/net5.0/ref/Walking.dll
+/Users/asenkocev/Desktop/SoftUni C#/Basics/While Loop - Exercise/Walking/Walking/bin/Debug/net5.0/Walking.pdb
+/Users/asenkocev/Desktop/SoftUni C#/Basics/While Loop - Exercise/Walking/Walking/obj/Debug/net5.0/Walking.csproj.AssemblyReference.cache
+/Users/asenkocev/Desktop/SoftUni C#/Basics/While Loop - Exercise/Walking/Walking/obj/Debug/net5.0/Walking.GeneratedMSBuildEditorConfig.editorconfig
+/Users/asenkocev/Desktop/SoftUni C#/Basics/While Loop - Exercise/Walking/Walking/obj/Debug/net5.0/Walking.AssemblyInfoInputs.cache
+/Users/asenkocev/Desktop/SoftUni C#/Basics/While Loop - Exercise/Walking/Walking/obj/Debug/net5.0/Walking.AssemblyInfo.cs
+/Users/asenkocev/Desktop/SoftUni C#/Basics/While Loop - Exercise/Walking/Walking/obj/Debug/net5.0/Walking.csproj.CoreCompileInputs.cache
+/Users/asenkocev/Desktop/SoftUni C#/Basics/While Loop - Exercise/Walking/Walking/obj/Debug/net5.0/Walking.dll
+/Users/asenkocev/Desktop/SoftUni C#/Basics/While Loop - Exercise/Walking/Walking/obj/Debug/net5.0/ref/Walking.dll
+/Users/asenkocev/Desktop/SoftUni C#/Basics/While Loop - Exercise/Walking/Walking/obj/Debug/net5.0/Walking.pdb
+/Users/asenkocev/Desktop/SoftUni C#/Basics/While Loop - Exercise/Walking/Walking/obj/Debug/net5.0/Walking.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+/Users/asenkocev/Desktop/SoftUni C#/Basics/Nested Loops - LAB/Travelling/bin/Debug/net5.0/Travelling.deps.json
+/Users/asenkocev/Desktop/SoftUni C#/Basics/Nested Loops - LAB/Travelling/bin/Debug/net5.0/Travelling.runtimeconfig.json
+/Users/asenkocev/Desktop/SoftUni C#/Basics/Nested Loops - LAB/Travelling/bin/Debug/net5.0/Travelling.runtimeconfig.dev.json
+/Users/asenkocev/Desktop/SoftUni C#/Basics/Nested Loops - LAB/Travelling/bin/Debug/net5.0/Travelling.dll
+/Users/asenkocev/Desktop/SoftUni C#/Basics/Nested Loops - LAB/Travelling/bin/Debug/net5.0/ref/Travelling.dll
+/Users/asenkocev/Desktop/SoftUni C#/Basics/Nested Loops - LAB/Travelling/bin/Debug/net5.0/Travelling.pdb
+/Users/asenkocev/Desktop/SoftUni C#/Basics/Nested Loops - LAB/Travelling/obj/Debug/net5.0/Travelling.csproj.AssemblyReference.cache
+/Users/asenkocev/Desktop/SoftUni C#/Basics/Nested Loops - LAB/Travelling/obj/Debug/net5.0/Travelling.GeneratedMSBuildEditorConfig.editorconfig
+/Users/asenkocev/Desktop/SoftUni C#/Basics/Nested Loops - LAB/Travelling/obj/Debug/net5.0/Travelling.AssemblyInfoInputs.cache
+/Users/asenkocev/Desktop/SoftUni C#/Basics/Nested Loops - LAB/Travelling/obj/Debug/net5.0/Travelling.AssemblyInfo.cs
+/Users/asenkocev/Desktop/SoftUni C#/Basics/Nested Loops - LAB/Travelling/obj/Debug/net5.0/Travelling.csproj.CoreCompileInputs.cache
+/Users/asenkocev/Desktop/SoftUni C#/Basics/Nested Loops - LAB/Travelling/obj/Debug/net5.0/Travelling.dll
+/Users/asenkocev/Desktop/SoftUni C#/Basics/Nested Loops - LAB/Travelling/obj/Debug/net5.0/ref/Travelling.dll
+/Users/asenkocev/Desktop/SoftUni C#/Basics/Nested Loops - LAB/Travelling/obj/Debug/net5.0/Travelling.pdb
+/Users/asenkocev/Desktop/SoftUni C#/Basics/Nested Loops - LAB/Travelling/obj/Debug/net5.0/Travelling.genruntimeconfig.cache

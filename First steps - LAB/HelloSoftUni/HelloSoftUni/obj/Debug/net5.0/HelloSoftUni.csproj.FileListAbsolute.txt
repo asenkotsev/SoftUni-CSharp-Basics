@@ -1,0 +1,15 @@
+/Users/asenkocev/Desktop/SoftUni C#/Basics/First steps/HelloSoftUni/HelloSoftUni/bin/Debug/net5.0/HelloSoftUni.deps.json
+/Users/asenkocev/Desktop/SoftUni C#/Basics/First steps/HelloSoftUni/HelloSoftUni/bin/Debug/net5.0/HelloSoftUni.runtimeconfig.json
+/Users/asenkocev/Desktop/SoftUni C#/Basics/First steps/HelloSoftUni/HelloSoftUni/bin/Debug/net5.0/HelloSoftUni.runtimeconfig.dev.json
+/Users/asenkocev/Desktop/SoftUni C#/Basics/First steps/HelloSoftUni/HelloSoftUni/bin/Debug/net5.0/HelloSoftUni.dll
+/Users/asenkocev/Desktop/SoftUni C#/Basics/First steps/HelloSoftUni/HelloSoftUni/bin/Debug/net5.0/ref/HelloSoftUni.dll
+/Users/asenkocev/Desktop/SoftUni C#/Basics/First steps/HelloSoftUni/HelloSoftUni/bin/Debug/net5.0/HelloSoftUni.pdb
+/Users/asenkocev/Desktop/SoftUni C#/Basics/First steps/HelloSoftUni/HelloSoftUni/obj/Debug/net5.0/HelloSoftUni.csproj.AssemblyReference.cache
+/Users/asenkocev/Desktop/SoftUni C#/Basics/First steps/HelloSoftUni/HelloSoftUni/obj/Debug/net5.0/HelloSoftUni.GeneratedMSBuildEditorConfig.editorconfig
+/Users/asenkocev/Desktop/SoftUni C#/Basics/First steps/HelloSoftUni/HelloSoftUni/obj/Debug/net5.0/HelloSoftUni.AssemblyInfoInputs.cache
+/Users/asenkocev/Desktop/SoftUni C#/Basics/First steps/HelloSoftUni/HelloSoftUni/obj/Debug/net5.0/HelloSoftUni.AssemblyInfo.cs
+/Users/asenkocev/Desktop/SoftUni C#/Basics/First steps/HelloSoftUni/HelloSoftUni/obj/Debug/net5.0/HelloSoftUni.csproj.CoreCompileInputs.cache
+/Users/asenkocev/Desktop/SoftUni C#/Basics/First steps/HelloSoftUni/HelloSoftUni/obj/Debug/net5.0/HelloSoftUni.dll
+/Users/asenkocev/Desktop/SoftUni C#/Basics/First steps/HelloSoftUni/HelloSoftUni/obj/Debug/net5.0/ref/HelloSoftUni.dll
+/Users/asenkocev/Desktop/SoftUni C#/Basics/First steps/HelloSoftUni/HelloSoftUni/obj/Debug/net5.0/HelloSoftUni.pdb
+/Users/asenkocev/Desktop/SoftUni C#/Basics/First steps/HelloSoftUni/HelloSoftUni/obj/Debug/net5.0/HelloSoftUni.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+/Users/asenkocev/Desktop/SoftUni C#/Basics/First steps - Exercise/VacationBooksList/VacationBooksList/bin/Debug/net5.0/VacationBooksList.deps.json
+/Users/asenkocev/Desktop/SoftUni C#/Basics/First steps - Exercise/VacationBooksList/VacationBooksList/bin/Debug/net5.0/VacationBooksList.runtimeconfig.json
+/Users/asenkocev/Desktop/SoftUni C#/Basics/First steps - Exercise/VacationBooksList/VacationBooksList/bin/Debug/net5.0/VacationBooksList.runtimeconfig.dev.json
+/Users/asenkocev/Desktop/SoftUni C#/Basics/First steps - Exercise/VacationBooksList/VacationBooksList/bin/Debug/net5.0/VacationBooksList.dll
+/Users/asenkocev/Desktop/SoftUni C#/Basics/First steps - Exercise/VacationBooksList/VacationBooksList/bin/Debug/net5.0/ref/VacationBooksList.dll
+/Users/asenkocev/Desktop/SoftUni C#/Basics/First steps - Exercise/VacationBooksList/VacationBooksList/bin/Debug/net5.0/VacationBooksList.pdb
+/Users/asenkocev/Desktop/SoftUni C#/Basics/First steps - Exercise/VacationBooksList/VacationBooksList/obj/Debug/net5.0/VacationBooksList.csproj.AssemblyReference.cache
+/Users/asenkocev/Desktop/SoftUni C#/Basics/First steps - Exercise/VacationBooksList/VacationBooksList/obj/Debug/net5.0/VacationBooksList.GeneratedMSBuildEditorConfig.editorconfig
+/Users/asenkocev/Desktop/SoftUni C#/Basics/First steps - Exercise/VacationBooksList/VacationBooksList/obj/Debug/net5.0/VacationBooksList.AssemblyInfoInputs.cache
+/Users/asenkocev/Desktop/SoftUni C#/Basics/First steps - Exercise/VacationBooksList/VacationBooksList/obj/Debug/net5.0/VacationBooksList.AssemblyInfo.cs
+/Users/asenkocev/Desktop/SoftUni C#/Basics/First steps - Exercise/VacationBooksList/VacationBooksList/obj/Debug/net5.0/VacationBooksList.csproj.CoreCompileInputs.cache
+/Users/asenkocev/Desktop/SoftUni C#/Basics/First steps - Exercise/VacationBooksList/VacationBooksList/obj/Debug/net5.0/VacationBooksList.dll
+/Users/asenkocev/Desktop/SoftUni C#/Basics/First steps - Exercise/VacationBooksList/VacationBooksList/obj/Debug/net5.0/ref/VacationBooksList.dll
+/Users/asenkocev/Desktop/SoftUni C#/Basics/First steps - Exercise/VacationBooksList/VacationBooksList/obj/Debug/net5.0/VacationBooksList.pdb
+/Users/asenkocev/Desktop/SoftUni C#/Basics/First steps - Exercise/VacationBooksList/VacationBooksList/obj/Debug/net5.0/VacationBooksList.genruntimeconfig.cache

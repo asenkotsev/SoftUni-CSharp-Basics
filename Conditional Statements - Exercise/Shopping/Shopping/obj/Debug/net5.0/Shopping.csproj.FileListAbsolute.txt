@@ -1,0 +1,15 @@
+/Users/asenkocev/Desktop/SoftUni C#/Basics/Conditional Statements - Exercise/Shopping/Shopping/bin/Debug/net5.0/Shopping.deps.json
+/Users/asenkocev/Desktop/SoftUni C#/Basics/Conditional Statements - Exercise/Shopping/Shopping/bin/Debug/net5.0/Shopping.runtimeconfig.json
+/Users/asenkocev/Desktop/SoftUni C#/Basics/Conditional Statements - Exercise/Shopping/Shopping/bin/Debug/net5.0/Shopping.runtimeconfig.dev.json
+/Users/asenkocev/Desktop/SoftUni C#/Basics/Conditional Statements - Exercise/Shopping/Shopping/bin/Debug/net5.0/Shopping.dll
+/Users/asenkocev/Desktop/SoftUni C#/Basics/Conditional Statements - Exercise/Shopping/Shopping/bin/Debug/net5.0/ref/Shopping.dll
+/Users/asenkocev/Desktop/SoftUni C#/Basics/Conditional Statements - Exercise/Shopping/Shopping/bin/Debug/net5.0/Shopping.pdb
+/Users/asenkocev/Desktop/SoftUni C#/Basics/Conditional Statements - Exercise/Shopping/Shopping/obj/Debug/net5.0/Shopping.csproj.AssemblyReference.cache
+/Users/asenkocev/Desktop/SoftUni C#/Basics/Conditional Statements - Exercise/Shopping/Shopping/obj/Debug/net5.0/Shopping.GeneratedMSBuildEditorConfig.editorconfig
+/Users/asenkocev/Desktop/SoftUni C#/Basics/Conditional Statements - Exercise/Shopping/Shopping/obj/Debug/net5.0/Shopping.AssemblyInfoInputs.cache
+/Users/asenkocev/Desktop/SoftUni C#/Basics/Conditional Statements - Exercise/Shopping/Shopping/obj/Debug/net5.0/Shopping.AssemblyInfo.cs
+/Users/asenkocev/Desktop/SoftUni C#/Basics/Conditional Statements - Exercise/Shopping/Shopping/obj/Debug/net5.0/Shopping.csproj.CoreCompileInputs.cache
+/Users/asenkocev/Desktop/SoftUni C#/Basics/Conditional Statements - Exercise/Shopping/Shopping/obj/Debug/net5.0/Shopping.dll
+/Users/asenkocev/Desktop/SoftUni C#/Basics/Conditional Statements - Exercise/Shopping/Shopping/obj/Debug/net5.0/ref/Shopping.dll
+/Users/asenkocev/Desktop/SoftUni C#/Basics/Conditional Statements - Exercise/Shopping/Shopping/obj/Debug/net5.0/Shopping.pdb
+/Users/asenkocev/Desktop/SoftUni C#/Basics/Conditional Statements - Exercise/Shopping/Shopping/obj/Debug/net5.0/Shopping.genruntimeconfig.cache

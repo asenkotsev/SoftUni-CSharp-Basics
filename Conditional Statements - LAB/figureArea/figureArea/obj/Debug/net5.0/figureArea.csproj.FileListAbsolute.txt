@@ -1,0 +1,15 @@
+/Users/asenkocev/Desktop/SoftUni C#/Basics/Conditional Statements - LAB/figureArea/figureArea/obj/Debug/net5.0/figureArea.csproj.AssemblyReference.cache
+/Users/asenkocev/Desktop/SoftUni C#/Basics/Conditional Statements - LAB/figureArea/figureArea/obj/Debug/net5.0/figureArea.GeneratedMSBuildEditorConfig.editorconfig
+/Users/asenkocev/Desktop/SoftUni C#/Basics/Conditional Statements - LAB/figureArea/figureArea/obj/Debug/net5.0/figureArea.AssemblyInfoInputs.cache
+/Users/asenkocev/Desktop/SoftUni C#/Basics/Conditional Statements - LAB/figureArea/figureArea/obj/Debug/net5.0/figureArea.AssemblyInfo.cs
+/Users/asenkocev/Desktop/SoftUni C#/Basics/Conditional Statements - LAB/figureArea/figureArea/obj/Debug/net5.0/figureArea.csproj.CoreCompileInputs.cache
+/Users/asenkocev/Desktop/SoftUni C#/Basics/Conditional Statements - LAB/figureArea/figureArea/bin/Debug/net5.0/figureArea.deps.json
+/Users/asenkocev/Desktop/SoftUni C#/Basics/Conditional Statements - LAB/figureArea/figureArea/bin/Debug/net5.0/figureArea.runtimeconfig.json
+/Users/asenkocev/Desktop/SoftUni C#/Basics/Conditional Statements - LAB/figureArea/figureArea/bin/Debug/net5.0/figureArea.runtimeconfig.dev.json
+/Users/asenkocev/Desktop/SoftUni C#/Basics/Conditional Statements - LAB/figureArea/figureArea/bin/Debug/net5.0/figureArea.dll
+/Users/asenkocev/Desktop/SoftUni C#/Basics/Conditional Statements - LAB/figureArea/figureArea/bin/Debug/net5.0/ref/figureArea.dll
+/Users/asenkocev/Desktop/SoftUni C#/Basics/Conditional Statements - LAB/figureArea/figureArea/bin/Debug/net5.0/figureArea.pdb
+/Users/asenkocev/Desktop/SoftUni C#/Basics/Conditional Statements - LAB/figureArea/figureArea/obj/Debug/net5.0/figureArea.dll
+/Users/asenkocev/Desktop/SoftUni C#/Basics/Conditional Statements - LAB/figureArea/figureArea/obj/Debug/net5.0/ref/figureArea.dll
+/Users/asenkocev/Desktop/SoftUni C#/Basics/Conditional Statements - LAB/figureArea/figureArea/obj/Debug/net5.0/figureArea.pdb
+/Users/asenkocev/Desktop/SoftUni C#/Basics/Conditional Statements - LAB/figureArea/figureArea/obj/Debug/net5.0/figureArea.genruntimeconfig.cache

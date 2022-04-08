@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{AEACC5E7-2D48-4DC5-9C2B-83A0A288A3E6}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Combinations/Program.cs">
+    <Files>
+      <File FileName="Combinations/Program.cs" Line="26" Column="10" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Combinations" expanded="True">
+            <Node name="Combinations" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Combinations PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

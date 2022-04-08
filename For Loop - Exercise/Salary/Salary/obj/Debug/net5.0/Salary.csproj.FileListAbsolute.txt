@@ -1,0 +1,15 @@
+/Users/asenkocev/Desktop/SoftUni C#/Basics/For Loop - Exercise/Salary/Salary/bin/Debug/net5.0/Salary.deps.json
+/Users/asenkocev/Desktop/SoftUni C#/Basics/For Loop - Exercise/Salary/Salary/bin/Debug/net5.0/Salary.runtimeconfig.json
+/Users/asenkocev/Desktop/SoftUni C#/Basics/For Loop - Exercise/Salary/Salary/bin/Debug/net5.0/Salary.runtimeconfig.dev.json
+/Users/asenkocev/Desktop/SoftUni C#/Basics/For Loop - Exercise/Salary/Salary/bin/Debug/net5.0/Salary.dll
+/Users/asenkocev/Desktop/SoftUni C#/Basics/For Loop - Exercise/Salary/Salary/bin/Debug/net5.0/ref/Salary.dll
+/Users/asenkocev/Desktop/SoftUni C#/Basics/For Loop - Exercise/Salary/Salary/bin/Debug/net5.0/Salary.pdb
+/Users/asenkocev/Desktop/SoftUni C#/Basics/For Loop - Exercise/Salary/Salary/obj/Debug/net5.0/Salary.csproj.AssemblyReference.cache
+/Users/asenkocev/Desktop/SoftUni C#/Basics/For Loop - Exercise/Salary/Salary/obj/Debug/net5.0/Salary.GeneratedMSBuildEditorConfig.editorconfig
+/Users/asenkocev/Desktop/SoftUni C#/Basics/For Loop - Exercise/Salary/Salary/obj/Debug/net5.0/Salary.AssemblyInfoInputs.cache
+/Users/asenkocev/Desktop/SoftUni C#/Basics/For Loop - Exercise/Salary/Salary/obj/Debug/net5.0/Salary.AssemblyInfo.cs
+/Users/asenkocev/Desktop/SoftUni C#/Basics/For Loop - Exercise/Salary/Salary/obj/Debug/net5.0/Salary.csproj.CoreCompileInputs.cache
+/Users/asenkocev/Desktop/SoftUni C#/Basics/For Loop - Exercise/Salary/Salary/obj/Debug/net5.0/Salary.dll
+/Users/asenkocev/Desktop/SoftUni C#/Basics/For Loop - Exercise/Salary/Salary/obj/Debug/net5.0/ref/Salary.dll
+/Users/asenkocev/Desktop/SoftUni C#/Basics/For Loop - Exercise/Salary/Salary/obj/Debug/net5.0/Salary.pdb
+/Users/asenkocev/Desktop/SoftUni C#/Basics/For Loop - Exercise/Salary/Salary/obj/Debug/net5.0/Salary.genruntimeconfig.cache

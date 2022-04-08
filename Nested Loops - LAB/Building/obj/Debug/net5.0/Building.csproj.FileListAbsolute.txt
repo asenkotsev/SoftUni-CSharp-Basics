@@ -1,0 +1,15 @@
+/Users/asenkocev/Desktop/SoftUni C#/Basics/Nested Loops - LAB/Building/bin/Debug/net5.0/Building.deps.json
+/Users/asenkocev/Desktop/SoftUni C#/Basics/Nested Loops - LAB/Building/bin/Debug/net5.0/Building.runtimeconfig.json
+/Users/asenkocev/Desktop/SoftUni C#/Basics/Nested Loops - LAB/Building/bin/Debug/net5.0/Building.runtimeconfig.dev.json
+/Users/asenkocev/Desktop/SoftUni C#/Basics/Nested Loops - LAB/Building/bin/Debug/net5.0/Building.dll
+/Users/asenkocev/Desktop/SoftUni C#/Basics/Nested Loops - LAB/Building/bin/Debug/net5.0/ref/Building.dll
+/Users/asenkocev/Desktop/SoftUni C#/Basics/Nested Loops - LAB/Building/bin/Debug/net5.0/Building.pdb
+/Users/asenkocev/Desktop/SoftUni C#/Basics/Nested Loops - LAB/Building/obj/Debug/net5.0/Building.csproj.AssemblyReference.cache
+/Users/asenkocev/Desktop/SoftUni C#/Basics/Nested Loops - LAB/Building/obj/Debug/net5.0/Building.GeneratedMSBuildEditorConfig.editorconfig
+/Users/asenkocev/Desktop/SoftUni C#/Basics/Nested Loops - LAB/Building/obj/Debug/net5.0/Building.AssemblyInfoInputs.cache
+/Users/asenkocev/Desktop/SoftUni C#/Basics/Nested Loops - LAB/Building/obj/Debug/net5.0/Building.AssemblyInfo.cs
+/Users/asenkocev/Desktop/SoftUni C#/Basics/Nested Loops - LAB/Building/obj/Debug/net5.0/Building.csproj.CoreCompileInputs.cache
+/Users/asenkocev/Desktop/SoftUni C#/Basics/Nested Loops - LAB/Building/obj/Debug/net5.0/Building.dll
+/Users/asenkocev/Desktop/SoftUni C#/Basics/Nested Loops - LAB/Building/obj/Debug/net5.0/ref/Building.dll
+/Users/asenkocev/Desktop/SoftUni C#/Basics/Nested Loops - LAB/Building/obj/Debug/net5.0/Building.pdb
+/Users/asenkocev/Desktop/SoftUni C#/Basics/Nested Loops - LAB/Building/obj/Debug/net5.0/Building.genruntimeconfig.cache

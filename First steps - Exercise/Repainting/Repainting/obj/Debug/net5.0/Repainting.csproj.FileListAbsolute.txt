@@ -1,0 +1,15 @@
+/Users/asenkocev/Desktop/SoftUni C#/Basics/First steps - Exercise/Repainting/Repainting/bin/Debug/net5.0/Repainting.deps.json
+/Users/asenkocev/Desktop/SoftUni C#/Basics/First steps - Exercise/Repainting/Repainting/bin/Debug/net5.0/Repainting.runtimeconfig.json
+/Users/asenkocev/Desktop/SoftUni C#/Basics/First steps - Exercise/Repainting/Repainting/bin/Debug/net5.0/Repainting.runtimeconfig.dev.json
+/Users/asenkocev/Desktop/SoftUni C#/Basics/First steps - Exercise/Repainting/Repainting/bin/Debug/net5.0/Repainting.dll
+/Users/asenkocev/Desktop/SoftUni C#/Basics/First steps - Exercise/Repainting/Repainting/bin/Debug/net5.0/ref/Repainting.dll
+/Users/asenkocev/Desktop/SoftUni C#/Basics/First steps - Exercise/Repainting/Repainting/bin/Debug/net5.0/Repainting.pdb
+/Users/asenkocev/Desktop/SoftUni C#/Basics/First steps - Exercise/Repainting/Repainting/obj/Debug/net5.0/Repainting.csproj.AssemblyReference.cache
+/Users/asenkocev/Desktop/SoftUni C#/Basics/First steps - Exercise/Repainting/Repainting/obj/Debug/net5.0/Repainting.GeneratedMSBuildEditorConfig.editorconfig
+/Users/asenkocev/Desktop/SoftUni C#/Basics/First steps - Exercise/Repainting/Repainting/obj/Debug/net5.0/Repainting.AssemblyInfoInputs.cache
+/Users/asenkocev/Desktop/SoftUni C#/Basics/First steps - Exercise/Repainting/Repainting/obj/Debug/net5.0/Repainting.AssemblyInfo.cs
+/Users/asenkocev/Desktop/SoftUni C#/Basics/First steps - Exercise/Repainting/Repainting/obj/Debug/net5.0/Repainting.csproj.CoreCompileInputs.cache
+/Users/asenkocev/Desktop/SoftUni C#/Basics/First steps - Exercise/Repainting/Repainting/obj/Debug/net5.0/Repainting.dll
+/Users/asenkocev/Desktop/SoftUni C#/Basics/First steps - Exercise/Repainting/Repainting/obj/Debug/net5.0/ref/Repainting.dll
+/Users/asenkocev/Desktop/SoftUni C#/Basics/First steps - Exercise/Repainting/Repainting/obj/Debug/net5.0/Repainting.pdb
+/Users/asenkocev/Desktop/SoftUni C#/Basics/First steps - Exercise/Repainting/Repainting/obj/Debug/net5.0/Repainting.genruntimeconfig.cache

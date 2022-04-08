@@ -1,0 +1,15 @@
+/Users/asenkocev/Desktop/SoftUni C#/Basics/While Loop - Exercise/ExamPreparation/ExamPreparation/bin/Debug/net5.0/ExamPreparation.deps.json
+/Users/asenkocev/Desktop/SoftUni C#/Basics/While Loop - Exercise/ExamPreparation/ExamPreparation/bin/Debug/net5.0/ExamPreparation.runtimeconfig.json
+/Users/asenkocev/Desktop/SoftUni C#/Basics/While Loop - Exercise/ExamPreparation/ExamPreparation/bin/Debug/net5.0/ExamPreparation.runtimeconfig.dev.json
+/Users/asenkocev/Desktop/SoftUni C#/Basics/While Loop - Exercise/ExamPreparation/ExamPreparation/bin/Debug/net5.0/ExamPreparation.dll
+/Users/asenkocev/Desktop/SoftUni C#/Basics/While Loop - Exercise/ExamPreparation/ExamPreparation/bin/Debug/net5.0/ref/ExamPreparation.dll
+/Users/asenkocev/Desktop/SoftUni C#/Basics/While Loop - Exercise/ExamPreparation/ExamPreparation/bin/Debug/net5.0/ExamPreparation.pdb
+/Users/asenkocev/Desktop/SoftUni C#/Basics/While Loop - Exercise/ExamPreparation/ExamPreparation/obj/Debug/net5.0/ExamPreparation.csproj.AssemblyReference.cache
+/Users/asenkocev/Desktop/SoftUni C#/Basics/While Loop - Exercise/ExamPreparation/ExamPreparation/obj/Debug/net5.0/ExamPreparation.GeneratedMSBuildEditorConfig.editorconfig
+/Users/asenkocev/Desktop/SoftUni C#/Basics/While Loop - Exercise/ExamPreparation/ExamPreparation/obj/Debug/net5.0/ExamPreparation.AssemblyInfoInputs.cache
+/Users/asenkocev/Desktop/SoftUni C#/Basics/While Loop - Exercise/ExamPreparation/ExamPreparation/obj/Debug/net5.0/ExamPreparation.AssemblyInfo.cs
+/Users/asenkocev/Desktop/SoftUni C#/Basics/While Loop - Exercise/ExamPreparation/ExamPreparation/obj/Debug/net5.0/ExamPreparation.csproj.CoreCompileInputs.cache
+/Users/asenkocev/Desktop/SoftUni C#/Basics/While Loop - Exercise/ExamPreparation/ExamPreparation/obj/Debug/net5.0/ExamPreparation.dll
+/Users/asenkocev/Desktop/SoftUni C#/Basics/While Loop - Exercise/ExamPreparation/ExamPreparation/obj/Debug/net5.0/ref/ExamPreparation.dll
+/Users/asenkocev/Desktop/SoftUni C#/Basics/While Loop - Exercise/ExamPreparation/ExamPreparation/obj/Debug/net5.0/ExamPreparation.pdb
+/Users/asenkocev/Desktop/SoftUni C#/Basics/While Loop - Exercise/ExamPreparation/ExamPreparation/obj/Debug/net5.0/ExamPreparation.genruntimeconfig.cache

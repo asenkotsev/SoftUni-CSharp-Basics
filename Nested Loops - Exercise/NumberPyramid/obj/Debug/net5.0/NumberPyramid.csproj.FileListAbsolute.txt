@@ -1,0 +1,15 @@
+/Users/asenkocev/Desktop/SoftUni C#/Basics/Nested Loops - Exercise/NumberPyramid/bin/Debug/net5.0/NumberPyramid.deps.json
+/Users/asenkocev/Desktop/SoftUni C#/Basics/Nested Loops - Exercise/NumberPyramid/bin/Debug/net5.0/NumberPyramid.runtimeconfig.json
+/Users/asenkocev/Desktop/SoftUni C#/Basics/Nested Loops - Exercise/NumberPyramid/bin/Debug/net5.0/NumberPyramid.runtimeconfig.dev.json
+/Users/asenkocev/Desktop/SoftUni C#/Basics/Nested Loops - Exercise/NumberPyramid/bin/Debug/net5.0/NumberPyramid.dll
+/Users/asenkocev/Desktop/SoftUni C#/Basics/Nested Loops - Exercise/NumberPyramid/bin/Debug/net5.0/ref/NumberPyramid.dll
+/Users/asenkocev/Desktop/SoftUni C#/Basics/Nested Loops - Exercise/NumberPyramid/bin/Debug/net5.0/NumberPyramid.pdb
+/Users/asenkocev/Desktop/SoftUni C#/Basics/Nested Loops - Exercise/NumberPyramid/obj/Debug/net5.0/NumberPyramid.csproj.AssemblyReference.cache
+/Users/asenkocev/Desktop/SoftUni C#/Basics/Nested Loops - Exercise/NumberPyramid/obj/Debug/net5.0/NumberPyramid.GeneratedMSBuildEditorConfig.editorconfig
+/Users/asenkocev/Desktop/SoftUni C#/Basics/Nested Loops - Exercise/NumberPyramid/obj/Debug/net5.0/NumberPyramid.AssemblyInfoInputs.cache
+/Users/asenkocev/Desktop/SoftUni C#/Basics/Nested Loops - Exercise/NumberPyramid/obj/Debug/net5.0/NumberPyramid.AssemblyInfo.cs
+/Users/asenkocev/Desktop/SoftUni C#/Basics/Nested Loops - Exercise/NumberPyramid/obj/Debug/net5.0/NumberPyramid.csproj.CoreCompileInputs.cache
+/Users/asenkocev/Desktop/SoftUni C#/Basics/Nested Loops - Exercise/NumberPyramid/obj/Debug/net5.0/NumberPyramid.dll
+/Users/asenkocev/Desktop/SoftUni C#/Basics/Nested Loops - Exercise/NumberPyramid/obj/Debug/net5.0/ref/NumberPyramid.dll
+/Users/asenkocev/Desktop/SoftUni C#/Basics/Nested Loops - Exercise/NumberPyramid/obj/Debug/net5.0/NumberPyramid.pdb
+/Users/asenkocev/Desktop/SoftUni C#/Basics/Nested Loops - Exercise/NumberPyramid/obj/Debug/net5.0/NumberPyramid.genruntimeconfig.cache

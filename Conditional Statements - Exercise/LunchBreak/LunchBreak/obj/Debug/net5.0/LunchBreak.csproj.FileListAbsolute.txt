@@ -1,0 +1,15 @@
+/Users/asenkocev/Desktop/SoftUni C#/Basics/Conditional Statements - Exercise/LunchBreak/LunchBreak/bin/Debug/net5.0/LunchBreak.deps.json
+/Users/asenkocev/Desktop/SoftUni C#/Basics/Conditional Statements - Exercise/LunchBreak/LunchBreak/bin/Debug/net5.0/LunchBreak.runtimeconfig.json
+/Users/asenkocev/Desktop/SoftUni C#/Basics/Conditional Statements - Exercise/LunchBreak/LunchBreak/bin/Debug/net5.0/LunchBreak.runtimeconfig.dev.json
+/Users/asenkocev/Desktop/SoftUni C#/Basics/Conditional Statements - Exercise/LunchBreak/LunchBreak/bin/Debug/net5.0/LunchBreak.dll
+/Users/asenkocev/Desktop/SoftUni C#/Basics/Conditional Statements - Exercise/LunchBreak/LunchBreak/bin/Debug/net5.0/ref/LunchBreak.dll
+/Users/asenkocev/Desktop/SoftUni C#/Basics/Conditional Statements - Exercise/LunchBreak/LunchBreak/bin/Debug/net5.0/LunchBreak.pdb
+/Users/asenkocev/Desktop/SoftUni C#/Basics/Conditional Statements - Exercise/LunchBreak/LunchBreak/obj/Debug/net5.0/LunchBreak.csproj.AssemblyReference.cache
+/Users/asenkocev/Desktop/SoftUni C#/Basics/Conditional Statements - Exercise/LunchBreak/LunchBreak/obj/Debug/net5.0/LunchBreak.GeneratedMSBuildEditorConfig.editorconfig
+/Users/asenkocev/Desktop/SoftUni C#/Basics/Conditional Statements - Exercise/LunchBreak/LunchBreak/obj/Debug/net5.0/LunchBreak.AssemblyInfoInputs.cache
+/Users/asenkocev/Desktop/SoftUni C#/Basics/Conditional Statements - Exercise/LunchBreak/LunchBreak/obj/Debug/net5.0/LunchBreak.AssemblyInfo.cs
+/Users/asenkocev/Desktop/SoftUni C#/Basics/Conditional Statements - Exercise/LunchBreak/LunchBreak/obj/Debug/net5.0/LunchBreak.csproj.CoreCompileInputs.cache
+/Users/asenkocev/Desktop/SoftUni C#/Basics/Conditional Statements - Exercise/LunchBreak/LunchBreak/obj/Debug/net5.0/LunchBreak.dll
+/Users/asenkocev/Desktop/SoftUni C#/Basics/Conditional Statements - Exercise/LunchBreak/LunchBreak/obj/Debug/net5.0/ref/LunchBreak.dll
+/Users/asenkocev/Desktop/SoftUni C#/Basics/Conditional Statements - Exercise/LunchBreak/LunchBreak/obj/Debug/net5.0/LunchBreak.pdb
+/Users/asenkocev/Desktop/SoftUni C#/Basics/Conditional Statements - Exercise/LunchBreak/LunchBreak/obj/Debug/net5.0/LunchBreak.genruntimeconfig.cache

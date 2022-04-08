@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.810.21
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EvenPowersOf2", "EvenPowersOf2\EvenPowersOf2.csproj", "{ED56D236-9E37-4D26-9DE3-3B5868644552}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ED56D236-9E37-4D26-9DE3-3B5868644552}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED56D236-9E37-4D26-9DE3-3B5868644552}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ED56D236-9E37-4D26-9DE3-3B5868644552}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ED56D236-9E37-4D26-9DE3-3B5868644552}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {071EC596-8A04-4E62-941B-56176565A222}
+	EndGlobalSection
+EndGlobal

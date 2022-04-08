@@ -1,0 +1,15 @@
+/Users/asenkocev/Desktop/SoftUni C#/Basics/Conditional Statements - Exercise/WorldSwimmingRecord/WorldSwimmingRecord/obj/Debug/net5.0/WorldSwimmingRecord.csproj.AssemblyReference.cache
+/Users/asenkocev/Desktop/SoftUni C#/Basics/Conditional Statements - Exercise/WorldSwimmingRecord/WorldSwimmingRecord/obj/Debug/net5.0/WorldSwimmingRecord.GeneratedMSBuildEditorConfig.editorconfig
+/Users/asenkocev/Desktop/SoftUni C#/Basics/Conditional Statements - Exercise/WorldSwimmingRecord/WorldSwimmingRecord/obj/Debug/net5.0/WorldSwimmingRecord.AssemblyInfoInputs.cache
+/Users/asenkocev/Desktop/SoftUni C#/Basics/Conditional Statements - Exercise/WorldSwimmingRecord/WorldSwimmingRecord/obj/Debug/net5.0/WorldSwimmingRecord.AssemblyInfo.cs
+/Users/asenkocev/Desktop/SoftUni C#/Basics/Conditional Statements - Exercise/WorldSwimmingRecord/WorldSwimmingRecord/obj/Debug/net5.0/WorldSwimmingRecord.csproj.CoreCompileInputs.cache
+/Users/asenkocev/Desktop/SoftUni C#/Basics/Conditional Statements - Exercise/WorldSwimmingRecord/WorldSwimmingRecord/bin/Debug/net5.0/WorldSwimmingRecord.deps.json
+/Users/asenkocev/Desktop/SoftUni C#/Basics/Conditional Statements - Exercise/WorldSwimmingRecord/WorldSwimmingRecord/bin/Debug/net5.0/WorldSwimmingRecord.runtimeconfig.json
+/Users/asenkocev/Desktop/SoftUni C#/Basics/Conditional Statements - Exercise/WorldSwimmingRecord/WorldSwimmingRecord/bin/Debug/net5.0/WorldSwimmingRecord.runtimeconfig.dev.json
+/Users/asenkocev/Desktop/SoftUni C#/Basics/Conditional Statements - Exercise/WorldSwimmingRecord/WorldSwimmingRecord/bin/Debug/net5.0/WorldSwimmingRecord.dll
+/Users/asenkocev/Desktop/SoftUni C#/Basics/Conditional Statements - Exercise/WorldSwimmingRecord/WorldSwimmingRecord/bin/Debug/net5.0/ref/WorldSwimmingRecord.dll
+/Users/asenkocev/Desktop/SoftUni C#/Basics/Conditional Statements - Exercise/WorldSwimmingRecord/WorldSwimmingRecord/bin/Debug/net5.0/WorldSwimmingRecord.pdb
+/Users/asenkocev/Desktop/SoftUni C#/Basics/Conditional Statements - Exercise/WorldSwimmingRecord/WorldSwimmingRecord/obj/Debug/net5.0/WorldSwimmingRecord.dll
+/Users/asenkocev/Desktop/SoftUni C#/Basics/Conditional Statements - Exercise/WorldSwimmingRecord/WorldSwimmingRecord/obj/Debug/net5.0/ref/WorldSwimmingRecord.dll
+/Users/asenkocev/Desktop/SoftUni C#/Basics/Conditional Statements - Exercise/WorldSwimmingRecord/WorldSwimmingRecord/obj/Debug/net5.0/WorldSwimmingRecord.pdb
+/Users/asenkocev/Desktop/SoftUni C#/Basics/Conditional Statements - Exercise/WorldSwimmingRecord/WorldSwimmingRecord/obj/Debug/net5.0/WorldSwimmingRecord.genruntimeconfig.cache

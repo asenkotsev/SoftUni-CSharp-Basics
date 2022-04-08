@@ -1,0 +1,15 @@
+/Users/asenkocev/Desktop/SoftUni C#/Basics/For Loop - Exercise/CleverLily/CleverLily/obj/Debug/net5.0/CleverLily.csproj.AssemblyReference.cache
+/Users/asenkocev/Desktop/SoftUni C#/Basics/For Loop - Exercise/CleverLily/CleverLily/obj/Debug/net5.0/CleverLily.GeneratedMSBuildEditorConfig.editorconfig
+/Users/asenkocev/Desktop/SoftUni C#/Basics/For Loop - Exercise/CleverLily/CleverLily/obj/Debug/net5.0/CleverLily.AssemblyInfoInputs.cache
+/Users/asenkocev/Desktop/SoftUni C#/Basics/For Loop - Exercise/CleverLily/CleverLily/obj/Debug/net5.0/CleverLily.AssemblyInfo.cs
+/Users/asenkocev/Desktop/SoftUni C#/Basics/For Loop - Exercise/CleverLily/CleverLily/obj/Debug/net5.0/CleverLily.csproj.CoreCompileInputs.cache
+/Users/asenkocev/Desktop/SoftUni C#/Basics/For Loop - Exercise/CleverLily/CleverLily/bin/Debug/net5.0/CleverLily.deps.json
+/Users/asenkocev/Desktop/SoftUni C#/Basics/For Loop - Exercise/CleverLily/CleverLily/bin/Debug/net5.0/CleverLily.runtimeconfig.json
+/Users/asenkocev/Desktop/SoftUni C#/Basics/For Loop - Exercise/CleverLily/CleverLily/bin/Debug/net5.0/CleverLily.runtimeconfig.dev.json
+/Users/asenkocev/Desktop/SoftUni C#/Basics/For Loop - Exercise/CleverLily/CleverLily/bin/Debug/net5.0/CleverLily.dll
+/Users/asenkocev/Desktop/SoftUni C#/Basics/For Loop - Exercise/CleverLily/CleverLily/bin/Debug/net5.0/ref/CleverLily.dll
+/Users/asenkocev/Desktop/SoftUni C#/Basics/For Loop - Exercise/CleverLily/CleverLily/bin/Debug/net5.0/CleverLily.pdb
+/Users/asenkocev/Desktop/SoftUni C#/Basics/For Loop - Exercise/CleverLily/CleverLily/obj/Debug/net5.0/CleverLily.dll
+/Users/asenkocev/Desktop/SoftUni C#/Basics/For Loop - Exercise/CleverLily/CleverLily/obj/Debug/net5.0/ref/CleverLily.dll
+/Users/asenkocev/Desktop/SoftUni C#/Basics/For Loop - Exercise/CleverLily/CleverLily/obj/Debug/net5.0/CleverLily.pdb
+/Users/asenkocev/Desktop/SoftUni C#/Basics/For Loop - Exercise/CleverLily/CleverLily/obj/Debug/net5.0/CleverLily.genruntimeconfig.cache
